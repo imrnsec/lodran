@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 420" preserveAspectRatio="xMidYMid slice">
+<rect width="300" height="420" fill="#cfd8c8"/>
+<rect x="12" y="12" width="276" height="396" fill="none" stroke="#5c7a5c" stroke-width="1.5" opacity="0.5"/>
+<circle cx="36" cy="40" r="20" fill="#5c7a5c" opacity="0.12"/><circle cx="23" cy="73" r="13" fill="#5c7a5c" opacity="0.12"/><circle cx="42" cy="53" r="15" fill="#5c7a5c" opacity="0.12"/><circle cx="68" cy="21" r="20" fill="#5c7a5c" opacity="0.12"/><circle cx="63" cy="46" r="21" fill="#5c7a5c" opacity="0.12"/><circle cx="89" cy="65" r="17" fill="#5c7a5c" opacity="0.12"/><polygon points="74.0,38.0 57.4,45.4 50.0,62.0 42.6,45.4 26.0,38.0 42.6,30.6 50.0,14.0 57.4,30.6" fill="#5c7a5c" opacity="0.28"/>
+<rect x="30" y="170" width="240" height="2" fill="#5c7a5c" opacity="0.6"/>
+<text x="150" y="213" font-family="Georgia,serif" font-size="17" fill="#5c7a5c" text-anchor="middle">The History and</text>
+<text x="150" y="237" font-family="Georgia,serif" font-size="17" fill="#5c7a5c" text-anchor="middle">Geography of the Sudan</text>
+<rect x="30" y="270" width="240" height="2" fill="#5c7a5c" opacity="0.6"/>
+<text x="150" y="300" font-family="Georgia,serif" font-size="14" fill="#5c7a5c" text-anchor="middle">Naum Shuqayr</text>
+<text x="150" y="392" font-family="Georgia,serif" font-size="10" fill="#5c7a5c" text-anchor="middle" opacity="0.7">Lodran Library</text>
+</svg>

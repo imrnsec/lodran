@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 420" preserveAspectRatio="xMidYMid slice">
+<rect width="300" height="420" fill="#cfd8c8"/>
+<rect x="12" y="12" width="276" height="396" fill="none" stroke="#5c7a5c" stroke-width="1.5" opacity="0.5"/>
+<circle cx="28" cy="65" r="12" fill="#5c7a5c" opacity="0.12"/><circle cx="57" cy="58" r="17" fill="#5c7a5c" opacity="0.12"/><circle cx="29" cy="62" r="17" fill="#5c7a5c" opacity="0.12"/><circle cx="89" cy="56" r="13" fill="#5c7a5c" opacity="0.12"/><circle cx="58" cy="51" r="10" fill="#5c7a5c" opacity="0.12"/><circle cx="65" cy="35" r="13" fill="#5c7a5c" opacity="0.12"/><polygon points="74.0,38.0 57.4,45.4 50.0,62.0 42.6,45.4 26.0,38.0 42.6,30.6 50.0,14.0 57.4,30.6" fill="#5c7a5c" opacity="0.28"/>
+<rect x="30" y="170" width="240" height="2" fill="#5c7a5c" opacity="0.6"/>
+<text x="150" y="225" font-family="Georgia,serif" font-size="20" fill="#5c7a5c" text-anchor="middle">The Romance of Antarah</text>
+<rect x="30" y="270" width="240" height="2" fill="#5c7a5c" opacity="0.6"/>
+<text x="150" y="300" font-family="Georgia,serif" font-size="14" fill="#5c7a5c" text-anchor="middle">Anonymous</text>
+<text x="150" y="392" font-family="Georgia,serif" font-size="10" fill="#5c7a5c" text-anchor="middle" opacity="0.7">Lodran Library</text>
+</svg>

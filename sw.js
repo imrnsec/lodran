@@ -17,7 +17,7 @@
  * Bump CACHE_VERSION whenever you ship a release and want clients to refresh
  * their precache + take over faster.
  */
-var CACHE_VERSION = "lodran-v1";
+var CACHE_VERSION = "lodran-v2";
 var SHELL_CACHE = CACHE_VERSION + "-shell";
 var DATA_CACHE = CACHE_VERSION + "-data";
 var IMG_CACHE = CACHE_VERSION + "-img";

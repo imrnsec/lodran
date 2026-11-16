@@ -32,7 +32,7 @@
     }
 
     // Featured: first 4 books (most recent by year desc)
-    var featured = books.slice().sort(function (a, b) { return b.year - a.year; }).slice(0, 4);
+    var featured = books.slice().sort(function (a, b) { return (b.year || 0) - (a.year || 0); }).slice(0, 4);
     var featuredGrid = document.getElementById("featuredGrid");
     if (featuredGrid) {
       featuredGrid.innerHTML = featured.map(function (b) {

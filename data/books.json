@@ -12,7 +12,11 @@
       "pages": 640,
       "cover": "assets/images/covers/muqaddimah.svg",
       "description": "عملٌ تأسيسيٌّ في علم الاجتماع والتاريخ، يبحث في صعود الدول وسقوطهاوطبيعة المجتمع والقوى التي تصنع الحضارات.",
-      "tags": ["علم الاجتماع", "التاريخ", "حضارة"]
+      "tags": [
+        "علم الاجتماع",
+        "التاريخ",
+        "حضارة"
+      ]
     },
     {
       "id": "b002",
@@ -26,7 +30,11 @@
       "pages": 169,
       "cover": "assets/images/covers/season.svg",
       "description": "روايةٌ مرجعيةٌ في السودان ما بعد الاستعمار، تنسج الهوية والمنفى وصدام الشمال بالجنوب في سردٍ آسر.",
-      "tags": ["رواية", "ما بعد الاستعمار", "هوية"]
+      "tags": [
+        "رواية",
+        "ما بعد الاستعمار",
+        "هوية"
+      ]
     },
     {
       "id": "b003",
@@ -40,7 +48,11 @@
       "pages": 1200,
       "cover": "assets/images/covers/epistles.svg",
       "description": "مدوّنةٌ موسوعية من رسائل فلسفية وعلمية وصوفية سعت إلى توفيق العقل والوحي.",
-      "tags": ["فلسفة", "علم", "تصوّف"]
+      "tags": [
+        "فلسفة",
+        "علم",
+        "تصوّف"
+      ]
     },
     {
       "id": "b004",
@@ -54,35 +66,45 @@
       "pages": 137,
       "cover": "assets/images/covers/zein.svg",
       "description": "رواية قصيرة دافئة مرحة تدور في قريةٍ سودانية، تحتفي بالمجتمع والحب وبطولة الناس العاديين الهادئة.",
-      "tags": ["رواية قصيرة", "قرية", "مجتمع"]
+      "tags": [
+        "رواية قصيرة",
+        "قرية",
+        "مجتمع"
+      ]
     },
     {
       "id": "b005",
-      "title": "أغاني النيل",
-      "titleEn": "Sands of the Nile",
+      "title": "أغاني إفريقيا",
+      "titleEn": "Songs of Africa",
       "author": "محمد الفيتوري",
-      "authorEn": "Mohammad Al-Fayturi",
+      "authorEn": "Muhammad al-Fayturi",
       "category": "literature",
       "year": 1955,
       "language": "العربية",
-      "pages": 210,
-      "cover": "assets/images/covers/sands.svg",
-      "description": "ديوانٌ شعريٌّ ينشد إيقاعات النيل وإرث إفريقيا وحنين الإنسان إلى الحرية.",
-      "tags": ["شعر", "إفريقيا", "هوية"]
+      "cover": "assets/images/covers/songs-of-africa.svg",
+      "description": "الديوان الأول للشاعر السوداني محمد الفيتوري، وفيه يجعل إفريقيا وهويتها وكرامة إنسانها موضوعًا شعريًّا مركزيًّا في القصيدة العربية الحديثة.",
+      "tags": [
+        "شعر",
+        "إفريقيا",
+        "السودان"
+      ]
     },
     {
       "id": "b006",
-      "title": "تاريخ السودان",
-      "titleEn": "A History of the Sudan",
-      "author": "حسن إبراهيم",
-      "authorEn": "Hassan Ibrahim",
+      "title": "تاريخ السودان القديم والحديث وجغرافيته",
+      "titleEn": "The History and Geography of the Sudan",
+      "author": "نعوم شقير",
+      "authorEn": "Naum Shuqayr",
       "category": "history",
-      "year": 1973,
+      "year": 1903,
       "language": "العربية",
-      "pages": 320,
-      "cover": "assets/images/covers/history.svg",
-      "description": "دراسةٌ أكاديمية تتتبّع السودان من ممالك كوش القديمة إلى العصر الحديث مع اهتمامٍ بالثقافة والمجتمع.",
-      "tags": ["دراسة", "كوش", "السودان"]
+      "cover": "assets/images/covers/shuqayr-sudan.svg",
+      "description": "مرجعٌ موسوعيٌّ عن جغرافية السودان وقبائله وتاريخه حتى نهاية الدولة المهدية، كتبه نعوم شقير معتمدًا على وثائق وروايات معاصرة.",
+      "tags": [
+        "السودان",
+        "المهدية",
+        "جغرافيا"
+      ]
     },
     {
       "id": "b007",
@@ -96,35 +118,44 @@
       "pages": 990,
       "cover": "assets/images/covers/sibawayh.svg",
       "description": "أقدم وأهم ما كُتب في النحو العربي، صرحٌ لغويٌّ شُكِّلت على يديه قرونٌ من الدراسة.",
-      "tags": ["نحو", "لغويات", "تراثي"]
+      "tags": [
+        "نحو",
+        "لغويات",
+        "تراثي"
+      ]
     },
     {
       "id": "b008",
-      "title": "حكايات المدينة القديمة",
-      "titleEn": "Tales from the Old Medina",
-      "author": "حسن نجمي",
-      "authorEn": "Hassan Najmi",
+      "title": "تغريبة بني هلال",
+      "titleEn": "The Epic of Bani Hilal",
+      "author": "مؤلف مجهول",
+      "authorEn": "Anonymous",
       "category": "folklore",
-      "year": 2001,
       "language": "العربية",
-      "pages": 184,
-      "cover": "assets/images/covers/medina.svg",
-      "description": "مجموعةٌ من الحكايات الشعبية تناقلتها أزقة المدن العتيقة، تحفظ ظرفها وأخلاقها وذاكرة رواها.",
-      "tags": ["حكايات", "شفاهي", "تراث"]
+      "cover": "assets/images/covers/bani-hilal.svg",
+      "description": "سيرةٌ شعبيةٌ تناقلها الرواة شفاهةً عبر القرون، تحكي رحلة قبائل بني هلال من الجزيرة العربية إلى شمال إفريقيا وبطولات أبي زيد الهلالي.",
+      "tags": [
+        "سيرة شعبية",
+        "ملحمة",
+        "رواية شفوية"
+      ]
     },
     {
       "id": "b009",
-      "title": "جماليات الخط العربي",
-      "titleEn": "The Aesthetics of Arabic Calligraphy",
-      "author": "ناصر السلام",
-      "authorEn": "Nasser Al-Salem",
+      "title": "كتاب الأغاني",
+      "titleEn": "The Book of Songs",
+      "author": "أبو الفرج الأصفهاني",
+      "authorEn": "Abu al-Faraj al-Isfahani",
       "category": "arts",
-      "year": 2010,
+      "year": 967,
       "language": "العربية",
-      "pages": 256,
-      "cover": "assets/images/covers/calligraphy.svg",
-      "description": "دراسةٌ مصوّرة للخط العربي بوصفه خطًّا وفنًّا، تتتبّع مدارسه وأساتذته وممارساته الحية.",
-      "tags": ["خط عربي", "تصميم", "تراث"]
+      "cover": "assets/images/covers/aghani.svg",
+      "description": "موسوعةٌ في الغناء والشعر وأخبار الشعراء والمغنّين من الجاهلية إلى العصر العباسي، وهي من أهم مصادر تاريخ الموسيقى والأدب العربي.",
+      "tags": [
+        "موسيقى",
+        "غناء",
+        "أخبار الشعراء"
+      ]
     },
     {
       "id": "b010",
@@ -138,35 +169,44 @@
       "pages": 480,
       "cover": "assets/images/covers/incoherence.svg",
       "description": "دفاعٌ عن الفلسفة العقلانية في وجه التصوّف، يحاجّ بأن لكلٍّ من العقل والوحي وجهًا من الحقيقة.",
-      "tags": ["عقلانية", "لاهوت", "مناظرة"]
+      "tags": [
+        "عقلانية",
+        "لاهوت",
+        "مناظرة"
+      ]
     },
     {
       "id": "b011",
-      "title": "قصائد النهرين",
-      "titleEn": "Lyrics of the Two Rivers",
-      "author": "أمل دنقل",
-      "authorEn": "Amal Donkol",
+      "title": "رسالة الغفران",
+      "titleEn": "The Epistle of Forgiveness",
+      "author": "أبو العلاء المعري",
+      "authorEn": "Abu al-Ala al-Maarri",
       "category": "literature",
-      "year": 1989,
+      "year": 1033,
       "language": "العربية",
-      "pages": 198,
-      "cover": "assets/images/covers/lyrics.svg",
-      "description": "شعرٌ حديثٌ تتسم به الوعي السياسي الحاد ومعينٌ عميقٌ من الإحالات الثقافية والجمال الغنائي.",
-      "tags": ["شعر", "حديث", "سياسي"]
+      "cover": "assets/images/covers/ghufran.svg",
+      "description": "رحلةٌ خياليةٌ إلى الجنة والنار يحاور فيها ابن القارح شعراء وأدباء، كتبها المعري بسخريةٍ ولغةٍ بالغة الثراء.",
+      "tags": [
+        "نثر",
+        "خيال",
+        "سخرية"
+      ]
     },
     {
       "id": "b012",
-      "title": "أبواب الصحراء",
-      "titleEn": "Gates of the Desert",
-      "author": "عبد العزيز المحبوب",
-      "authorEn": "Abdelaziz Al-Mahboub",
+      "title": "سيرة عنترة بن شداد",
+      "titleEn": "The Romance of Antarah",
+      "author": "مؤلف مجهول",
+      "authorEn": "Anonymous",
       "category": "folklore",
-      "year": 1995,
       "language": "العربية",
-      "pages": 220,
-      "cover": "assets/images/covers/desert.svg",
-      "description": "أساطيرُ وحكاياتٌ لأهل الصحراء جمعت من مصادر شفاهية، ترسم خريطةً روحية للقفار.",
-      "tags": ["أسطورة", "صحراء", "شفاهي"]
+      "cover": "assets/images/covers/antarah.svg",
+      "description": "سيرةٌ شعبيةٌ طويلةٌ عن الفارس والشاعر الجاهلي عنترة بن شداد، تمزج الفروسية بالحب، وظلّ الحكواتية يروونها في المقاهي قرونًا.",
+      "tags": [
+        "سيرة شعبية",
+        "فروسية",
+        "حكواتي"
+      ]
     },
     {
       "id": "b013",
@@ -180,8 +220,380 @@
       "pages": 207,
       "cover": "assets/images/covers/meaning.svg",
       "description": "سجلٌ تأمليٌّ لكاتبٍ نجا من معسكرات الاعتقال النازية، يبحث فيه عن المعنى الذي يُبقي الإنسان حيًّا حين يُحاط به من كل جانب. كتابٌ مرجعيٌّ في علم النفس الوجودي ومدارس العلاج بالمعنى.",
-      "tags": ["علم النفس", "وجودية", "مذكرات", "معنى"],
+      "tags": [
+        "علم النفس",
+        "وجودية",
+        "مذكرات",
+        "معنى"
+      ],
       "pdfPath": "assets/books/pdf/book-human-search-for-mean.pdf"
+    },
+    {
+      "id": "b014",
+      "title": "كليلة ودمنة",
+      "titleEn": "Kalila wa Dimna",
+      "author": "عبد الله بن المقفع",
+      "authorEn": "Ibn al-Muqaffa",
+      "category": "literature",
+      "year": 750,
+      "language": "العربية",
+      "cover": "assets/images/covers/kalila.svg",
+      "description": "حكاياتٌ على ألسنة الحيوان في الحكمة والسياسة والأخلاق، نقلها ابن المقفع إلى العربية عن الفهلوية، وأصلها هندي.",
+      "tags": [
+        "حكايات",
+        "حكمة",
+        "أدب السياسة"
+      ]
+    },
+    {
+      "id": "b015",
+      "title": "البخلاء",
+      "titleEn": "The Book of Misers",
+      "author": "الجاحظ",
+      "authorEn": "Al-Jahiz",
+      "category": "literature",
+      "language": "العربية",
+      "cover": "assets/images/covers/bukhala.svg",
+      "description": "نوادر وأخبار عن البخلاء يصوّر فيها الجاحظ مجتمع البصرة وبغداد في العصر العباسي بروحٍ ساخرةٍ وملاحظةٍ دقيقة.",
+      "tags": [
+        "نوادر",
+        "سخرية",
+        "العصر العباسي"
+      ]
+    },
+    {
+      "id": "b016",
+      "title": "طوق الحمامة",
+      "titleEn": "The Ring of the Dove",
+      "author": "ابن حزم الأندلسي",
+      "authorEn": "Ibn Hazm",
+      "category": "literature",
+      "year": 1022,
+      "language": "العربية",
+      "cover": "assets/images/covers/tawq.svg",
+      "description": "رسالةٌ في الحب وأحواله وعلاماته، كتبها ابن حزم في الأندلس مستشهدًا بتجاربه وأشعاره وأخبار أهل عصره.",
+      "tags": [
+        "الحب",
+        "الأندلس",
+        "نثر"
+      ]
+    },
+    {
+      "id": "b017",
+      "title": "ألف ليلة وليلة",
+      "titleEn": "One Thousand and One Nights",
+      "author": "مؤلف مجهول",
+      "authorEn": "Anonymous",
+      "category": "literature",
+      "language": "العربية",
+      "cover": "assets/images/covers/nights.svg",
+      "description": "مجموعة حكاياتٍ تشكّلت عبر قرونٍ من مصادر عربية وفارسية وهندية، تجمعها حكاية شهرزاد التي تروي للملك شهريار كلَّ ليلة.",
+      "tags": [
+        "حكايات",
+        "شهرزاد",
+        "تراث"
+      ]
+    },
+    {
+      "id": "b018",
+      "title": "الأيام",
+      "titleEn": "The Days",
+      "author": "طه حسين",
+      "authorEn": "Taha Hussein",
+      "category": "literature",
+      "year": 1929,
+      "language": "العربية",
+      "cover": "assets/images/covers/ayyam.svg",
+      "description": "السيرة الذاتية لطه حسين، يروي فيها طفولته في صعيد مصر وفقدانه البصر ثم دراسته في الأزهر والجامعة.",
+      "tags": [
+        "سيرة ذاتية",
+        "مصر",
+        "نثر حديث"
+      ]
+    },
+    {
+      "id": "b019",
+      "title": "دومة ود حامد",
+      "titleEn": "The Doum Tree of Wad Hamid",
+      "author": "الطيب صالح",
+      "authorEn": "Tayeb Salih",
+      "category": "literature",
+      "language": "العربية",
+      "cover": "assets/images/covers/doum.svg",
+      "description": "مجموعةٌ من سبع قصص قصيرة تدور في قرية ود حامد على النيل، وتتناول لقاء القديم بالجديد في الريف السوداني.",
+      "tags": [
+        "قصة قصيرة",
+        "السودان",
+        "الريف"
+      ]
+    },
+    {
+      "id": "b020",
+      "title": "تاريخ الرسل والملوك",
+      "titleEn": "History of the Prophets and Kings",
+      "author": "محمد بن جرير الطبري",
+      "authorEn": "Al-Tabari",
+      "category": "history",
+      "year": 915,
+      "language": "العربية",
+      "cover": "assets/images/covers/tabari.svg",
+      "description": "تاريخٌ حوليٌّ شاملٌ من بدء الخليقة إلى مطلع القرن الرابع الهجري، ويُعرف بتاريخ الطبري، وهو من أوسع مصادر التاريخ الإسلامي المبكر.",
+      "tags": [
+        "تاريخ",
+        "حوليات",
+        "صدر الإسلام"
+      ]
+    },
+    {
+      "id": "b021",
+      "title": "رحلة ابن بطوطة",
+      "titleEn": "The Travels of Ibn Battuta",
+      "author": "ابن بطوطة",
+      "authorEn": "Ibn Battuta",
+      "category": "history",
+      "year": 1355,
+      "language": "العربية",
+      "cover": "assets/images/covers/battuta.svg",
+      "description": "«تحفة النظار في غرائب الأمصار وعجائب الأسفار»: وصفُ رحلاتٍ دامت نحو ثلاثة عقود من المغرب إلى الصين، أملاها ابن بطوطة على ابن جزي.",
+      "tags": [
+        "رحلات",
+        "جغرافيا",
+        "القرن الرابع عشر"
+      ]
+    },
+    {
+      "id": "b022",
+      "title": "كتاب الطبقات",
+      "titleEn": "Kitab al-Tabaqat",
+      "author": "محمد النور بن ضيف الله",
+      "authorEn": "Wad Dayfallah",
+      "category": "history",
+      "year": 1805,
+      "language": "العربية",
+      "cover": "assets/images/covers/tabaqat.svg",
+      "description": "تراجم الأولياء والصالحين والعلماء والشعراء في السودان زمن سلطنة الفونج، وهو من أقدم المصادر المكتوبة عن الحياة الدينية والاجتماعية السودانية.",
+      "tags": [
+        "السودان",
+        "الفونج",
+        "تراجم"
+      ]
+    },
+    {
+      "id": "b023",
+      "title": "السودان عبر القرون",
+      "titleEn": "The Sudan Through the Centuries",
+      "author": "مكي شبيكة",
+      "authorEn": "Mekki Shibeika",
+      "category": "history",
+      "language": "العربية",
+      "cover": "assets/images/covers/shibeika.svg",
+      "description": "عرضٌ لتاريخ السودان من العصور القديمة إلى العصر الحديث بقلم المؤرخ مكي شبيكة، أحد روّاد الكتابة التاريخية الأكاديمية في السودان.",
+      "tags": [
+        "السودان",
+        "تاريخ عام"
+      ]
+    },
+    {
+      "id": "b024",
+      "title": "حي بن يقظان",
+      "titleEn": "Hayy ibn Yaqzan",
+      "author": "ابن طفيل",
+      "authorEn": "Ibn Tufayl",
+      "category": "philosophy",
+      "year": 1170,
+      "language": "العربية",
+      "cover": "assets/images/covers/hayy.svg",
+      "description": "قصةٌ فلسفيةٌ عن إنسانٍ ينشأ وحيدًا في جزيرة فيصل بعقله وتأمّله إلى معرفة الطبيعة ثم إلى الحقائق العليا.",
+      "tags": [
+        "قصة فلسفية",
+        "العقل",
+        "الأندلس"
+      ]
+    },
+    {
+      "id": "b025",
+      "title": "المنقذ من الضلال",
+      "titleEn": "Deliverance from Error",
+      "author": "أبو حامد الغزالي",
+      "authorEn": "Al-Ghazali",
+      "category": "philosophy",
+      "year": 1108,
+      "language": "العربية",
+      "cover": "assets/images/covers/munqidh.svg",
+      "description": "سيرةٌ فكريةٌ يروي فيها الغزالي أزمة شكّه وبحثه بين المتكلمين والفلاسفة والباطنية حتى انتهى إلى التصوف.",
+      "tags": [
+        "سيرة فكرية",
+        "الشك",
+        "تصوف"
+      ]
+    },
+    {
+      "id": "b026",
+      "title": "تهافت الفلاسفة",
+      "titleEn": "The Incoherence of the Philosophers",
+      "author": "أبو حامد الغزالي",
+      "authorEn": "Al-Ghazali",
+      "category": "philosophy",
+      "year": 1095,
+      "language": "العربية",
+      "cover": "assets/images/covers/tahafut-falasifa.svg",
+      "description": "نقدٌ لعشرين مسألةً من مسائل الفلاسفة المشّائين، وهو الكتاب الذي ردّ عليه ابن رشد لاحقًا في «تهافت التهافت».",
+      "tags": [
+        "فلسفة",
+        "علم الكلام",
+        "نقد"
+      ]
+    },
+    {
+      "id": "b027",
+      "title": "آراء أهل المدينة الفاضلة",
+      "titleEn": "The Virtuous City",
+      "author": "أبو نصر الفارابي",
+      "authorEn": "Al-Farabi",
+      "category": "philosophy",
+      "year": 942,
+      "language": "العربية",
+      "cover": "assets/images/covers/madina-fadila.svg",
+      "description": "يعرض الفارابي تصوّره للوجود والنفس والعقل، ثم للمدينة التي يبلغ أهلها السعادة تحت رئاسة الحكيم.",
+      "tags": [
+        "فلسفة سياسية",
+        "المدينة",
+        "السعادة"
+      ]
+    },
+    {
+      "id": "b028",
+      "title": "فصل المقال",
+      "titleEn": "The Decisive Treatise",
+      "author": "ابن رشد",
+      "authorEn": "Ibn Rushd",
+      "category": "philosophy",
+      "year": 1179,
+      "language": "العربية",
+      "cover": "assets/images/covers/fasl.svg",
+      "description": "رسالةٌ قصيرةٌ يبيّن فيها ابن رشد العلاقة بين الحكمة والشريعة، ويدافع عن مشروعية النظر الفلسفي.",
+      "tags": [
+        "فلسفة",
+        "الحكمة والشريعة",
+        "الأندلس"
+      ]
+    },
+    {
+      "id": "b029",
+      "title": "كتاب الموسيقى الكبير",
+      "titleEn": "The Great Book of Music",
+      "author": "أبو نصر الفارابي",
+      "authorEn": "Al-Farabi",
+      "category": "arts",
+      "year": 940,
+      "language": "العربية",
+      "cover": "assets/images/covers/musiqa.svg",
+      "description": "أوسع مؤلَّفٍ عربيٍّ قديمٍ في نظرية الموسيقى: الأنغام والأبعاد والإيقاع والآلات، وضعه الفارابي على أساسٍ رياضيٍّ وفلسفي.",
+      "tags": [
+        "موسيقى",
+        "نظرية",
+        "آلات"
+      ]
+    },
+    {
+      "id": "b030",
+      "title": "الأمثال السودانية",
+      "titleEn": "Sudanese Proverbs",
+      "author": "بابكر بدري",
+      "authorEn": "Babikr Bedri",
+      "category": "folklore",
+      "language": "العربية",
+      "cover": "assets/images/covers/amthal.svg",
+      "description": "مجموعةٌ من الأمثال الشعبية السودانية مع شرحها، جمعها الشيخ بابكر بدري رائد التعليم في السودان، وتُعدّ مرجعًا أساسيًّا في بابها.",
+      "tags": [
+        "أمثال",
+        "السودان",
+        "عامية"
+      ]
+    },
+    {
+      "id": "b031",
+      "title": "لسان العرب",
+      "titleEn": "Lisan al-Arab",
+      "author": "ابن منظور",
+      "authorEn": "Ibn Manzur",
+      "category": "language",
+      "year": 1290,
+      "language": "العربية",
+      "cover": "assets/images/covers/lisan.svg",
+      "description": "من أكبر معاجم العربية، جمع فيه ابن منظور مادة خمسة معاجم سابقة ورتّبه على أواخر الجذور.",
+      "tags": [
+        "معجم",
+        "لغة",
+        "جذور"
+      ]
+    },
+    {
+      "id": "b032",
+      "title": "الخصائص",
+      "titleEn": "Al-Khasais",
+      "author": "ابن جني",
+      "authorEn": "Ibn Jinni",
+      "category": "language",
+      "year": 1000,
+      "language": "العربية",
+      "cover": "assets/images/covers/khasais.svg",
+      "description": "كتابٌ في أصول النحو وفقه اللغة، يبحث فيه ابن جني طبيعة العربية وعللها واشتقاقها وعلاقة اللفظ بالمعنى.",
+      "tags": [
+        "نحو",
+        "فقه اللغة",
+        "اشتقاق"
+      ]
+    },
+    {
+      "id": "b033",
+      "title": "كتاب العين",
+      "titleEn": "Kitab al-Ayn",
+      "author": "الخليل بن أحمد الفراهيدي",
+      "authorEn": "Al-Khalil ibn Ahmad",
+      "category": "language",
+      "year": 786,
+      "language": "العربية",
+      "cover": "assets/images/covers/ayn.svg",
+      "description": "أول معجمٍ للعربية، رتّبه الخليل على مخارج الحروف مبتدئًا بحرف العين، واعتمد فيه نظام التقليبات.",
+      "tags": [
+        "معجم",
+        "صوتيات",
+        "الخليل"
+      ]
+    },
+    {
+      "id": "b034",
+      "title": "أسرار البلاغة",
+      "titleEn": "The Secrets of Eloquence",
+      "author": "عبد القاهر الجرجاني",
+      "authorEn": "Abd al-Qahir al-Jurjani",
+      "category": "language",
+      "year": 1070,
+      "language": "العربية",
+      "cover": "assets/images/covers/asrar.svg",
+      "description": "دراسةٌ تأسيسيةٌ في علم البيان، يحلّل فيها الجرجاني التشبيه والاستعارة والتمثيل وأثرها في النفس.",
+      "tags": [
+        "بلاغة",
+        "بيان",
+        "استعارة"
+      ]
+    },
+    {
+      "id": "b035",
+      "title": "البيان والتبيين",
+      "titleEn": "Al-Bayan wa al-Tabyin",
+      "author": "الجاحظ",
+      "authorEn": "Al-Jahiz",
+      "category": "language",
+      "language": "العربية",
+      "cover": "assets/images/covers/bayan.svg",
+      "description": "مختاراتٌ من الخطب والأشعار والأخبار مع آراء الجاحظ في البلاغة والفصاحة وأساليب الكلام.",
+      "tags": [
+        "بلاغة",
+        "خطابة",
+        "أدب"
+      ]
     }
   ]
 }
