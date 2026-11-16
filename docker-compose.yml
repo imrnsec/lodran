@@ -1,0 +1,18 @@
+# Lodran — docker compose
+# Builds and serves the static cultural library via Nginx on http://localhost:8080
+
+services:
+  lodran:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: lodran
+    ports:
+      - "8080:80"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "wget -qO- http://127.0.0.1:80/ >/dev/null 2>&1 || exit 1"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 10s

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>عن لُدران — لُدران</title>
+<meta name="description" content="عن لُدران: مكتبةٌ ثقافية غير ربحية مكرّسةٌ للحفاظ على الذاكرة الثقافية ومشاركتها.">
+<link rel="icon" href="assets/images/logo.svg" type="image/svg+xml">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="css/style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Readex+Pro:wght@160..700&display=swap" rel="stylesheet">
+</head>
+<body>
+<header class="site-header" id="siteHeader"></header>
+<main>
+<section class="page-head">
+  <p class="breadcrumb"><a href="index.html">الرئيسية</a> <span>‹</span> عن لُدران</p>
+  <h1 class="page-title">عن لُدران</h1>
+  <p class="page-lede">من نحن، ولماذا نوجد، وكيف يعتني بمكتبةٍ ثقافية مجموعةٌ صغيرة من المتطوّعين.</p>
+</section>
+
+<section class="prose">
+  <div class="about-hero">
+    <div class="about-hero-bg" style="background-image:url('assets/images/hero.svg')"></div>
+  </div>
+
+  <h2>لِمَ بُني هذا المكان</h2>
+  <p>لُدران مكتبةٌ ثقافية غير ربحية ومركز. وُجدت لتجمع وتحفظ وتتيح برفقٍ الكلمة المكتوبة، والحكاية المحكية، والصورة — عبر الأدب والتاريخ والفلسفة والفنون والتراث الشعبي واللغة.</p>
+  <p>نؤمن أن الذاكرة الثقافية مشاعٌ عام: هي ملكٌ للمجتمعات، وينبغي أن يكون التجوّل فيها يسيرًا، بلا مقابلٍ وبلا عوائق. لا حساباتٍ هنا، ولا جدرانٍ لأجور، ولا تعليقاتٍ تصرف عن العمل نفسه.</p>
+
+  <h2>كيف يُضاف إليها</h2>
+  <p>يعتنى بكل مدخلٍ يدويًا فريقٌ صغير من المتطوّعين. تُفهرَس الكتب بعنوانٍ ومؤلفٍ وتصنيفٍ ووصفٍ قصير يُعينك على إيجاد ما تبحث عنه — وما لم تكن تعرف بعد أنك تريده. المقالات نصوصٌ أقصر، يكتبها في الغالب محررو لُدران. ويجمع المعرض صورًا لأعمالٍ ثقافية وأثراتٍ وملمسات الحياة اليومية.</p>
+  <p>يعيش كل مدخلٍ في ملفات بيانات منظّمة (JSON) بسيطة. هذا يُبقي المشروع خفيفًا محمولًا وواضحًا في ما هو عليه: رفٌّ من أشياء مفهرسة، يعنى بها أناس يهتمون.</p>
+
+  <h2>في ما نرجوه</h2>
+  <ul>
+    <li>أن تنمو المكتبة بتؤدةٍ وعنايةٍ لا بسرعةٍ بلا ضمير.</li>
+    <li>أن يكتشف القرّاء نصوصًا وصورًا ما كانوا ليلتقوا بها لولاها.</li>
+    <li>أن يبقى المشروع مفتوحًا هادئًا خاليًا من الضجيج لكل من يزوره.</li>
+  </ul>
+
+  <h2>ملاحظة على الشكل التقني</h2>
+  <p>بُنيت لُدران موقعًا ثابتًا: HTML وCSS وقليلٌ من JavaScript، يخدمها خادمٌ ويب خفيف. يُخزَّن المحتوى في ملفات JSON يقرؤها الواجهة ويعرضها. وهذا كافٍ لمكتبةٍ يديرها متطوّعون.</p>
+  <p>غير أن البنية مقصودة. إن احتاج المشروع لاحقًا إلى حساباتٍ للمستخدمين أو بحثٍ متقدمٍ أو فهارسةٍ أغنى، فإن ملفات JSON تنطبق بدقةً على جدولٍ في SQLite أو PostgreSQL — يصبح كلٌّ من التصنيفات والكتب والمقالات والصور جدولًا قائمًا بذاته، ولا يلزم الواجهة سوى استبدال مصدر البيانات. العظامُ مهيّأةٌ للنمو، من غير أن تثقل قبل حينها.</p>
+
+  <h2>كيف يمكنك المساعدة</h2>
+  <p>إن كان لديك نصٌّ أو مقالٌ أو صورةٌ ينتمي إلى مكانٍ كهذا، أو رغبت في مدّ يدٍ في الفهرسة، فأنت مرحبٌ بك. لُدران يديرها أناسٌ يؤمنون أن المكتبة فعلُ انتباهٍ مشتركٌ بطيء.</p>
+</section>
+</main>
+<footer class="site-footer" id="siteFooter"></footer>
+<script src="js/data.js"></script>
+<script src="js/app.js"></script>
+<script>document.addEventListener('DOMContentLoaded', function () { Lodran.initLayout(); });</script>
+</body>
+</html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>المعرض — لُدران</title>
+<meta name="description" content="معرضٌ لأعمالٍ ثقافية وصورٍ من مكتبة لُدران.">
+<link rel="icon" href="assets/images/logo.svg" type="image/svg+xml">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="css/style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Readex+Pro:wght@160..700&display=swap" rel="stylesheet">
+</head>
+<body>
+<header class="site-header" id="siteHeader"></header>
+<main>
+<section class="page-head">
+  <p class="breadcrumb"><a href="index.html">الرئيسية</a> <span>‹</span> المعرض</p>
+  <h1 class="page-title">المعرض</h1>
+  <p class="page-lede">أعمالٌ وصورٌ ثقافية، جُمعت من الأرشيف والمساهمين والميدان. انقر أي عمل لعرضه عن قرب.</p>
+</section>
+
+<section class="gallery-layout">
+  <div class="gallery-filters" id="galleryFilters"></div>
+  <p class="result-summary" id="resultSummary"></p>
+  <div class="masonry" id="masonryGrid"></div>
+  <p class="empty-state hidden" id="emptyState">لا توجد صورٌ في هذا التصنيف بعد.</p>
+</section>
+</main>
+
+<div class="lightbox" id="lightbox" aria-hidden="true">
+  <div class="lightbox-backdrop" id="lightboxBackdrop"></div>
+  <button class="lightbox-close" id="lightboxClose" aria-label="إغلاق">&times;</button>
+  <button class="lightbox-nav lightbox-prev" id="lightboxPrev" aria-label="السابق">‹</button>
+  <figure class="lightbox-figure">
+    <img class="lightbox-img" id="lightboxImg" alt="">
+    <figcaption class="lightbox-caption">
+      <h3 id="lightboxTitle"></h3>
+      <p id="lightboxDesc"></p>
+    </figcaption>
+  </figure>
+  <button class="lightbox-nav lightbox-next" id="lightboxNext" aria-label="التالي">›</button>
+  <button class="lightbox-share" id="lightboxShare" data-share="gallery.html?image={id}" title="نسخ رابط الصورة" aria-label="نسخ الرابط">
+    <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="6" cy="12" r="2.5" stroke="currentColor" stroke-width="1.5"/><circle cx="18" cy="6" r="2.5" stroke="currentColor" stroke-width="1.5"/><circle cx="18" cy="18" r="2.5" stroke="currentColor" stroke-width="1.5"/><path d="M8 11l8-4M8 13l8 4" stroke="currentColor" stroke-width="1.5"/></svg>
+  </button>
+  <button class="lightbox-slideshow" id="lightboxSlideshow" aria-label="تشغيل العرض التلقائي" title="عرض تلقائي">&#9654;</button>
+  <div class="lightbox-counter" id="lightboxCounter">—</div>
+</div>
+<footer class="site-footer" id="siteFooter"></footer>
+<script src="js/data.js"></script>
+<script src="js/app.js"></script>
+<script src="js/gallery.js"></script>
+</body>
+</html>

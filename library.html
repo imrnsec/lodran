@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>المكتبة — لُدران</title>
+<meta name="description" content="تصفّح الكتب والمقالات في مكتبة لُدران الثقافية، مصنّفةً حسب التصنيف.">
+<link rel="icon" href="assets/images/logo.svg" type="image/svg+xml">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="css/style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Readex+Pro:wght@160..700&display=swap" rel="stylesheet">
+</head>
+<body>
+<header class="site-header" id="siteHeader"></header>
+<main>
+<section class="page-head">
+  <p class="breadcrumb"><a href="index.html">الرئيسية</a> <span>‹</span> المكتبة</p>
+  <h1 class="page-title">المكتبة</h1>
+  <p class="page-lede">الكتب والمقالات والكتابات المجمّعة. استخدم اللوحة أدناه للتصفية حسب التصنيف والنوع.</p>
+</section>
+
+<section class="library-layout">
+  <aside class="filters" id="filterPanel">
+    <div class="filter-group">
+      <h3 class="filter-title">النوع</h3>
+      <label class="filter-chip-wrap"><input type="radio" name="kind" value="all" checked> <span>الكل</span></label>
+      <label class="filter-chip-wrap"><input type="radio" name="kind" value="books"> <span>كتب</span></label>
+      <label class="filter-chip-wrap"><input type="radio" name="kind" value="articles"> <span>مقالات</span></label>
+    </div>
+    <div class="filter-group">
+      <h3 class="filter-title">التصنيف</h3>
+      <label class="filter-chip-wrap"><input type="radio" name="category" value="all" checked> <span>كل التصنيفات</span></label>
+      <div id="categoryFilters"></div>
+    </div>
+    <div class="filter-group">
+      <h3 class="filter-title">بحث</h3>
+      <input type="search" id="searchInput" class="search-input" placeholder="العنوان أو المؤلف أو الوسم…">
+    </div>
+    <button class="btn btn-soft btn-block" id="clearFilters">مسح التصفية</button>
+    <button class="btn btn-soft btn-block filter-toggle" id="filterToggle" aria-label="إظهار التصفية">التصفية</button>
+  </aside>
+
+  <div class="library-main">
+    <div class="library-tabs">
+      <button class="tab active" data-tab="books">كتب <span class="tab-count" id="bookCount"></span></button>
+      <button class="tab" data-tab="articles">مقالات <span class="tab-count" id="articleCount"></span></button>
+    </div>
+    <p class="result-summary" id="resultSummary"></p>
+    <div class="card-grid" id="booksGrid"></div>
+    <div class="card-grid hidden" id="articlesGrid"></div>
+    <p class="empty-state hidden" id="emptyState">لا شيء يطابق التصفية الحالية. جرّب مسحها.</p>
+  </div>
+</section>
+</main>
+<footer class="site-footer" id="siteFooter"></footer>
+<script src="js/data.js"></script>
+<script src="js/app.js"></script>
+<script src="js/library.js"></script>
+</body>
+</html>

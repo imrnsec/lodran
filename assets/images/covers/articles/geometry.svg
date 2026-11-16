@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" preserveAspectRatio="xMidYMid slice">
+<rect width="400" height="240" fill="#e0d5c3"/>
+<circle cx="27" cy="27" r="15" fill="#a87b4a" opacity="0.12"/><circle cx="90" cy="47" r="21" fill="#a87b4a" opacity="0.12"/><circle cx="73" cy="92" r="15" fill="#a87b4a" opacity="0.12"/><circle cx="84" cy="90" r="9" fill="#a87b4a" opacity="0.12"/><circle cx="23" cy="40" r="8" fill="#a87b4a" opacity="0.12"/><circle cx="90" cy="76" r="20" fill="#a87b4a" opacity="0.12"/><polygon points="74.0,38.0 57.4,45.4 50.0,62.0 42.6,45.4 26.0,38.0 42.6,30.6 50.0,14.0 57.4,30.6" fill="#a87b4a" opacity="0.28"/>
+<rect x="24" y="96" width="352" height="1.5" fill="#a87b4a" opacity="0.55"/>
+<text x="32" y="80" font-family="Georgia,serif" font-size="20" fill="#a87b4a">Geometry of Ornament</text>
+<rect x="24" y="96" width="352" height="1.5" fill="#a87b4a" opacity="0.55"/>
+<text x="368" y="200" font-family="Georgia,serif" font-size="11" fill="#a87b4a" text-anchor="end" opacity="0.75">10 min read</text>
+</svg>

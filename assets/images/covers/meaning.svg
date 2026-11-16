@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 420" preserveAspectRatio="xMidYMid slice">
+<rect width="300" height="420" fill="#4d4257"/>
+<rect x="12" y="12" width="276" height="396" fill="none" stroke="#e8d9b8" stroke-width="1.5" opacity="0.55"/>
+<path d="M150 70 C 175 70, 195 90, 195 120 C 195 150, 175 170, 150 170 C 125 170, 105 150, 105 120 C 105 90, 125 70, 150 70 Z" fill="none" stroke="#e8d9b8" stroke-width="1.4" opacity="0.7"/>
+<path d="M150 90 C 165 92, 175 105, 175 120" fill="none" stroke="#e8d9b8" stroke-width="1.2" opacity="0.45"/>
+<rect x="40" y="240" width="220" height="2" fill="#e8d9b8" opacity="0.6"/>
+<text x="150" y="205" font-family="Georgia,serif" font-size="20" fill="#e8d9b8" text-anchor="middle">Man's Search</text>
+<text x="150" y="230" font-family="Georgia,serif" font-size="20" fill="#e8d9b8" text-anchor="middle">for Meaning</text>
+<rect x="40" y="270" width="220" height="2" fill="#e8d9b8" opacity="0.6"/>
+<text x="150" y="300" font-family="Georgia,serif" font-size="14" fill="#e8d9b8" text-anchor="middle" opacity="0.85">Viktor E. Frankl</text>
+<text x="150" y="392" font-family="Georgia,serif" font-size="10" fill="#e8d9b8" text-anchor="middle" opacity="0.7">Lodran Library</text>
+</svg>

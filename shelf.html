@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>خريطة الرفوف — لُدران</title>
+<meta name="description" content="تجوّل بصريٌّ في رفوف لُدران مصنّفةً حسب التصنيف — شَمِّ العناوين كأنها صفوفٌ من المجلّدات.">
+<link rel="icon" href="assets/images/logo.svg" type="image/svg+xml">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="css/style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Readex+Pro:wght@160..700&display=swap" rel="stylesheet">
+</head>
+<body>
+<header class="site-header" id="siteHeader"></header>
+<main>
+<section class="page-head">
+  <p class="breadcrumb"><a href="index.html">الرئيسية</a> <span>‹</span> خريطة الرفوف</p>
+  <h1 class="page-title">خريطة الرفوف</h1>
+  <p class="page-lede">تجوّل بصريٌّ بين رفوف لُدران. مرّر أفقيًا كلَّ رفٍّ لمشاهدة العناوين كأنها صفوفٌ من المجلّدات، وانقر أيَّ مجلّدٍ ليُفتح في القارئ.</p>
+</section>
+
+<section class="shelf-stats" id="shelfStats" aria-label="إحصاء قراءتك">
+  <div class="stats-grid" id="statsGrid">
+    <p class="reader-loading">يُحسب نشاطك…</p>
+  </div>
+</section>
+
+<section class="section section-alt" id="saved">
+  <div class="section-head">
+    <h2 class="section-title">المحفوظات</h2>
+    <p class="section-lede">العناوين التي وسمتها بنجمةٍ لتعود إليها لاحقًا. تُحفظ في متصفّحك فقط.</p>
+  </div>
+  <div class="saved-grid" id="savedGrid">
+    <p class="reader-loading">—</p>
+  </div>
+  <p class="empty-state hidden" id="savedEmpty">لم تحفظ أيَّ عنوانٍ بعد. اضغط النجمة فوق أيِّ كتابٍ لإضافته هنا.</p>
+</section>
+
+<section class="shelf-layout" id="shelfLayout" aria-label="رفوف الكتب حسب التصنيف">
+  <p class="reader-loading" id="shelfLoading">يُحمّل الرفوف…</p>
+</section>
+
+<section class="section section-alt">
+  <div class="section-head">
+    <h2 class="section-title">ألوانُ الرفوف</h2>
+    <p class="section-lede">لكلِّ تصنيفٍ لونٌ يَميِّزه على الرفّ، فتَسهل الإلمامُ بطيفِ ما تجمعه لُدران بأنظارك.</p>
+  </div>
+  <div class="shelf-legend" id="shelfLegend"></div>
+</section>
+</main>
+<footer class="site-footer" id="siteFooter"></footer>
+<script src="js/data.js"></script>
+<script src="js/app.js"></script>
+<script src="js/shelf.js"></script>
+</body>
+</html>
+

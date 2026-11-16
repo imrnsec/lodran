@@ -1,0 +1,1764 @@
+{
+  "gallery": [
+    {
+      "id": "img001",
+      "title": "أثرٌ من الماضي",
+      "titleEn": "أثرٌ من الماضي",
+      "category": "history",
+      "source": "assets/images/gallery/arch.svg",
+      "orientation": "square",
+      "folder": "gallery",
+      "description": "أثرٌ من الماضي."
+    },
+    {
+      "id": "img002",
+      "title": "مقعدٌ وحكاية",
+      "titleEn": "مقعدٌ وحكاية",
+      "category": "literature",
+      "source": "assets/images/gallery/calligraphy1.svg",
+      "orientation": "portrait",
+      "folder": "gallery",
+      "description": "مقعدٌ وحكاية."
+    },
+    {
+      "id": "img003",
+      "title": "من معيشة الناس",
+      "titleEn": "من معيشة الناس",
+      "category": "folklore",
+      "source": "assets/images/gallery/coffee.svg",
+      "orientation": "landscape",
+      "folder": "gallery",
+      "description": "من معيشة الناس."
+    },
+    {
+      "id": "img004",
+      "title": "من زوايا النظر",
+      "titleEn": "من زوايا النظر",
+      "category": "philosophy",
+      "source": "assets/images/gallery/doorway.svg",
+      "orientation": "square",
+      "folder": "gallery",
+      "description": "من زوايا النظر."
+    },
+    {
+      "id": "img005",
+      "title": "رقنٌ يدوي",
+      "titleEn": "رقنٌ يدوي",
+      "category": "language",
+      "source": "assets/images/gallery/harvest.svg",
+      "orientation": "landscape",
+      "folder": "gallery",
+      "description": "رقنٌ يدوي."
+    },
+    {
+      "id": "img006",
+      "title": "لمحةٌ شعبية",
+      "titleEn": "لمحةٌ شعبية",
+      "category": "folklore",
+      "source": "assets/images/gallery/manuscript.svg",
+      "orientation": "landscape",
+      "folder": "gallery",
+      "description": "لمحةٌ شعبية."
+    },
+    {
+      "id": "img007",
+      "title": "من تفاصيل اليوم",
+      "titleEn": "من تفاصيل اليوم",
+      "category": "folklore",
+      "source": "assets/images/gallery/market.svg",
+      "orientation": "landscape",
+      "folder": "gallery",
+      "description": "من تفاصيل اليوم."
+    },
+    {
+      "id": "img008",
+      "title": "خطٌّ على ورق",
+      "titleEn": "خطٌّ على ورق",
+      "category": "language",
+      "source": "assets/images/gallery/meroe.svg",
+      "orientation": "landscape",
+      "folder": "gallery",
+      "description": "خطٌّ على ورق."
+    },
+    {
+      "id": "img009",
+      "title": "من معيشة الناس",
+      "titleEn": "من معيشة الناس",
+      "category": "folklore",
+      "source": "assets/images/gallery/potter.svg",
+      "orientation": "landscape",
+      "folder": "gallery",
+      "description": "من معيشة الناس."
+    },
+    {
+      "id": "img010",
+      "title": "أثر قلم",
+      "titleEn": "أثر قلم",
+      "category": "language",
+      "source": "assets/images/gallery/riverboat.svg",
+      "orientation": "landscape",
+      "folder": "gallery",
+      "description": "أثر قلم."
+    },
+    {
+      "id": "img011",
+      "title": "ذاكرة المكان",
+      "titleEn": "ذاكرة المكان",
+      "category": "history",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0009.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "ذاكرة المكان."
+    },
+    {
+      "id": "img012",
+      "title": "مخلفّ هذا المكان",
+      "titleEn": "مخلفّ هذا المكان",
+      "category": "history",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0010.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "مخلفّ هذا المكان."
+    },
+    {
+      "id": "img013",
+      "title": "من حرفٍ وحبر",
+      "titleEn": "من حرفٍ وحبر",
+      "category": "language",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0011.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "من حرفٍ وحبر."
+    },
+    {
+      "id": "img014",
+      "title": "مقعدٌ وحكاية",
+      "titleEn": "مقعدٌ وحكاية",
+      "category": "literature",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0012.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "مقعدٌ وحكاية."
+    },
+    {
+      "id": "img015",
+      "title": "من سواد الحرف",
+      "titleEn": "من سواد الحرف",
+      "category": "language",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0016.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "من سواد الحرف."
+    },
+    {
+      "id": "img016",
+      "title": "ظلٌّ ونور",
+      "titleEn": "ظلٌّ ونور",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0017.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "ظلٌّ ونور."
+    },
+    {
+      "id": "img017",
+      "title": "رقنٌ يدوي",
+      "titleEn": "رقنٌ يدوي",
+      "category": "language",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0018.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "رقنٌ يدوي."
+    },
+    {
+      "id": "img018",
+      "title": "لمحةٌ شعبية",
+      "titleEn": "لمحةٌ شعبية",
+      "category": "folklore",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0019.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "لمحةٌ شعبية."
+    },
+    {
+      "id": "img019",
+      "title": "على الجدار",
+      "titleEn": "على الجدار",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0020.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "على الجدار."
+    },
+    {
+      "id": "img020",
+      "title": "خطٌّ على ورق",
+      "titleEn": "خطٌّ على ورق",
+      "category": "language",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0021.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "خطٌّ على ورق."
+    },
+    {
+      "id": "img021",
+      "title": "نافذةٌ وفكر",
+      "titleEn": "نافذةٌ وفكر",
+      "category": "philosophy",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0022.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "نافذةٌ وفكر."
+    },
+    {
+      "id": "img022",
+      "title": "بقايا زمان",
+      "titleEn": "بقايا زمان",
+      "category": "history",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0023.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "بقايا زمان."
+    },
+    {
+      "id": "img023",
+      "title": "تأملٌ في المكان",
+      "titleEn": "تأملٌ في المكان",
+      "category": "philosophy",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0024.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "تأملٌ في المكان."
+    },
+    {
+      "id": "img024",
+      "title": "لمحةٌ شعبية",
+      "titleEn": "لمحةٌ شعبية",
+      "category": "folklore",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0025.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "لمحةٌ شعبية."
+    },
+    {
+      "id": "img025",
+      "title": "على الجدار",
+      "titleEn": "على الجدار",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0026.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "على الجدار."
+    },
+    {
+      "id": "img026",
+      "title": "خطٌّ على ورق",
+      "titleEn": "خطٌّ على ورق",
+      "category": "language",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0027.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "خطٌّ على ورق."
+    },
+    {
+      "id": "img027",
+      "title": "من بناءٍ قديم",
+      "titleEn": "من بناءٍ قديم",
+      "category": "history",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0028.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "من بناءٍ قديم."
+    },
+    {
+      "id": "img028",
+      "title": "بقايا زمان",
+      "titleEn": "بقايا زمان",
+      "category": "history",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0029.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "بقايا زمان."
+    },
+    {
+      "id": "img029",
+      "title": "عابرٌ في الدرب",
+      "titleEn": "عابرٌ في الدرب",
+      "category": "folklore",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0030.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "عابرٌ في الدرب."
+    },
+    {
+      "id": "img030",
+      "title": "لمحةٌ شعبية",
+      "titleEn": "لمحةٌ شعبية",
+      "category": "folklore",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0031.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "لمحةٌ شعبية."
+    },
+    {
+      "id": "img031",
+      "title": "على الجدار",
+      "titleEn": "على الجدار",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0032.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "على الجدار."
+    },
+    {
+      "id": "img032",
+      "title": "صمتٌ ومعنى",
+      "titleEn": "صمتٌ ومعنى",
+      "category": "philosophy",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0033.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "صمتٌ ومعنى."
+    },
+    {
+      "id": "img033",
+      "title": "من معيشة الناس",
+      "titleEn": "من معيشة الناس",
+      "category": "folklore",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0034.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "من معيشة الناس."
+    },
+    {
+      "id": "img034",
+      "title": "من زوايا النظر",
+      "titleEn": "من زوايا النظر",
+      "category": "philosophy",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0035.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "من زوايا النظر."
+    },
+    {
+      "id": "img035",
+      "title": "تأملٌ في المكان",
+      "titleEn": "تأملٌ في المكان",
+      "category": "philosophy",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0036.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "تأملٌ في المكان."
+    },
+    {
+      "id": "img036",
+      "title": "لمحةٌ شعبية",
+      "titleEn": "لمحةٌ شعبية",
+      "category": "folklore",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0037.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "لمحةٌ شعبية."
+    },
+    {
+      "id": "img037",
+      "title": "أثرٌ من الماضي",
+      "titleEn": "أثرٌ من الماضي",
+      "category": "history",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0038.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "أثرٌ من الماضي."
+    },
+    {
+      "id": "img038",
+      "title": "حجرٌ شاهد",
+      "titleEn": "حجرٌ شاهد",
+      "category": "history",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0039.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "حجرٌ شاهد."
+    },
+    {
+      "id": "img039",
+      "title": "تكوينٌ لوني",
+      "titleEn": "تكوينٌ لوني",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0040.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "تكوينٌ لوني."
+    },
+    {
+      "id": "img040",
+      "title": "ظلٌّ ونور",
+      "titleEn": "ظلٌّ ونور",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0041.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "ظلٌّ ونور."
+    },
+    {
+      "id": "img041",
+      "title": "عابرٌ في الدرب",
+      "titleEn": "عابرٌ في الدرب",
+      "category": "folklore",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0042.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "عابرٌ في الدرب."
+    },
+    {
+      "id": "img042",
+      "title": "عنصرٌ بصري",
+      "titleEn": "عنصرٌ بصري",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0043.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "عنصرٌ بصري."
+    },
+    {
+      "id": "img043",
+      "title": "من تفاصيل اليوم",
+      "titleEn": "من تفاصيل اليوم",
+      "category": "folklore",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0044.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "من تفاصيل اليوم."
+    },
+    {
+      "id": "img044",
+      "title": "مقعدٌ وحكاية",
+      "titleEn": "مقعدٌ وحكاية",
+      "category": "literature",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0045.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "مقعدٌ وحكاية."
+    },
+    {
+      "id": "img045",
+      "title": "نافذةٌ وفكر",
+      "titleEn": "نافذةٌ وفكر",
+      "category": "philosophy",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0046.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "نافذةٌ وفكر."
+    },
+    {
+      "id": "img046",
+      "title": "بقايا زمان",
+      "titleEn": "بقايا زمان",
+      "category": "history",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0047.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "بقايا زمان."
+    },
+    {
+      "id": "img047",
+      "title": "تأملٌ في المكان",
+      "titleEn": "تأملٌ في المكان",
+      "category": "philosophy",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0048.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "تأملٌ في المكان."
+    },
+    {
+      "id": "img048",
+      "title": "رقّ ICT",
+      "titleEn": "رقّ ICT",
+      "category": "literature",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0049.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "رقّ ICT."
+    },
+    {
+      "id": "img049",
+      "title": "من حرفٍ وحبر",
+      "titleEn": "من حرفٍ وحبر",
+      "category": "language",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0050.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "من حرفٍ وحبر."
+    },
+    {
+      "id": "img050",
+      "title": "مشهدٌ محلي",
+      "titleEn": "مشهدٌ محلي",
+      "category": "folklore",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0051.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "مشهدٌ محلي."
+    },
+    {
+      "id": "img051",
+      "title": "نافذةٌ وفكر",
+      "titleEn": "نافذةٌ وفكر",
+      "category": "philosophy",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0052.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "نافذةٌ وفكر."
+    },
+    {
+      "id": "img052",
+      "title": "أثر قلم",
+      "titleEn": "أثر قلم",
+      "category": "language",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0053.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "أثر قلم."
+    },
+    {
+      "id": "img053",
+      "title": "تأملٌ في المكان",
+      "titleEn": "تأملٌ في المكان",
+      "category": "philosophy",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0054.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "تأملٌ في المكان."
+    },
+    {
+      "id": "img054",
+      "title": "هدوءٌ يفكر",
+      "titleEn": "هدوءٌ يفكر",
+      "category": "philosophy",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0055.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "هدوءٌ يفكر."
+    },
+    {
+      "id": "img055",
+      "title": "من تفاصيل اليوم",
+      "titleEn": "من تفاصيل اليوم",
+      "category": "folklore",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0056.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "من تفاصيل اليوم."
+    },
+    {
+      "id": "img056",
+      "title": "حجرٌ شاهد",
+      "titleEn": "حجرٌ شاهد",
+      "category": "history",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0057.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "حجرٌ شاهد."
+    },
+    {
+      "id": "img057",
+      "title": "من معيشة الناس",
+      "titleEn": "من معيشة الناس",
+      "category": "folklore",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0058.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "من معيشة الناس."
+    },
+    {
+      "id": "img058",
+      "title": "ظلٌّ ونور",
+      "titleEn": "ظلٌّ ونور",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0059.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "ظلٌّ ونور."
+    },
+    {
+      "id": "img059",
+      "title": "رقنٌ يدوي",
+      "titleEn": "رقنٌ يدوي",
+      "category": "language",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0060.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "رقنٌ يدوي."
+    },
+    {
+      "id": "img060",
+      "title": "عنصرٌ بصري",
+      "titleEn": "عنصرٌ بصري",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0061.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "عنصرٌ بصري."
+    },
+    {
+      "id": "img061",
+      "title": "من صفحةٍ وورق",
+      "titleEn": "من صفحةٍ وورق",
+      "category": "literature",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0062.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "من صفحةٍ وورق."
+    },
+    {
+      "id": "img062",
+      "title": "مقعدٌ وحكاية",
+      "titleEn": "مقعدٌ وحكاية",
+      "category": "literature",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0063.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "مقعدٌ وحكاية."
+    },
+    {
+      "id": "img063",
+      "title": "نافذةٌ وفكر",
+      "titleEn": "نافذةٌ وفكر",
+      "category": "philosophy",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0064.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "نافذةٌ وفكر."
+    },
+    {
+      "id": "img064",
+      "title": "ظلٌّ ونور",
+      "titleEn": "ظلٌّ ونور",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0065.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "ظلٌّ ونور."
+    },
+    {
+      "id": "img065",
+      "title": "ذاكرة المكان",
+      "titleEn": "ذاكرة المكان",
+      "category": "history",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0066.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "ذاكرة المكان."
+    },
+    {
+      "id": "img066",
+      "title": "عنصرٌ بصري",
+      "titleEn": "عنصرٌ بصري",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0067.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "عنصرٌ بصري."
+    },
+    {
+      "id": "img067",
+      "title": "من صفحةٍ وورق",
+      "titleEn": "من صفحةٍ وورق",
+      "category": "literature",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0068.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "من صفحةٍ وورق."
+    },
+    {
+      "id": "img068",
+      "title": "مقعدٌ وحكاية",
+      "titleEn": "مقعدٌ وحكاية",
+      "category": "literature",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0069.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "مقعدٌ وحكاية."
+    },
+    {
+      "id": "img069",
+      "title": "تكوينٌ لوني",
+      "titleEn": "تكوينٌ لوني",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0070.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "تكوينٌ لوني."
+    },
+    {
+      "id": "img070",
+      "title": "بقايا زمان",
+      "titleEn": "بقايا زمان",
+      "category": "history",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0071.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "بقايا زمان."
+    },
+    {
+      "id": "img071",
+      "title": "من زخرفة المكان",
+      "titleEn": "من زخرفة المكان",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0072.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "من زخرفة المكان."
+    },
+    {
+      "id": "img072",
+      "title": "لمحةٌ شعبية",
+      "titleEn": "لمحةٌ شعبية",
+      "category": "folklore",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0073.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "لمحةٌ شعبية."
+    },
+    {
+      "id": "img073",
+      "title": "من صفحةٍ وورق",
+      "titleEn": "من صفحةٍ وورق",
+      "category": "literature",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0074.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "من صفحةٍ وورق."
+    },
+    {
+      "id": "img074",
+      "title": "مقعدٌ وحكاية",
+      "titleEn": "مقعدٌ وحكاية",
+      "category": "literature",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0076.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "مقعدٌ وحكاية."
+    },
+    {
+      "id": "img075",
+      "title": "تكوينٌ لوني",
+      "titleEn": "تكوينٌ لوني",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0077.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "تكوينٌ لوني."
+    },
+    {
+      "id": "img076",
+      "title": "أثر قلم",
+      "titleEn": "أثر قلم",
+      "category": "language",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0078.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "أثر قلم."
+    },
+    {
+      "id": "img077",
+      "title": "عابرٌ في الدرب",
+      "titleEn": "عابرٌ في الدرب",
+      "category": "folklore",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0080.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "عابرٌ في الدرب."
+    },
+    {
+      "id": "img078",
+      "title": "مخلفّ هذا المكان",
+      "titleEn": "مخلفّ هذا المكان",
+      "category": "history",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0081.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "مخلفّ هذا المكان."
+    },
+    {
+      "id": "img079",
+      "title": "أثرٌ من الماضي",
+      "titleEn": "أثرٌ من الماضي",
+      "category": "history",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0082.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "أثرٌ من الماضي."
+    },
+    {
+      "id": "img080",
+      "title": "خطٌّ على ورق",
+      "titleEn": "خطٌّ على ورق",
+      "category": "language",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0083.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "خطٌّ على ورق."
+    },
+    {
+      "id": "img081",
+      "title": "من معيشة الناس",
+      "titleEn": "من معيشة الناس",
+      "category": "folklore",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0084.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "من معيشة الناس."
+    },
+    {
+      "id": "img082",
+      "title": "كتابٌ ومنارة",
+      "titleEn": "كتابٌ ومنارة",
+      "category": "literature",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0085.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "كتابٌ ومنارة."
+    },
+    {
+      "id": "img083",
+      "title": "تأملٌ في المكان",
+      "titleEn": "تأملٌ في المكان",
+      "category": "philosophy",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0086.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "تأملٌ في المكان."
+    },
+    {
+      "id": "img084",
+      "title": "عنصرٌ بصري",
+      "titleEn": "عنصرٌ بصري",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0087.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "عنصرٌ بصري."
+    },
+    {
+      "id": "img085",
+      "title": "من حرفٍ وحبر",
+      "titleEn": "من حرفٍ وحبر",
+      "category": "language",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0088.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "من حرفٍ وحبر."
+    },
+    {
+      "id": "img086",
+      "title": "خطٌّ على ورق",
+      "titleEn": "خطٌّ على ورق",
+      "category": "language",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0089.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "خطٌّ على ورق."
+    },
+    {
+      "id": "img087",
+      "title": "تكوينٌ لوني",
+      "titleEn": "تكوينٌ لوني",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0090.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "تكوينٌ لوني."
+    },
+    {
+      "id": "img088",
+      "title": "كتابٌ ومنارة",
+      "titleEn": "كتابٌ ومنارة",
+      "category": "literature",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0091.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "كتابٌ ومنارة."
+    },
+    {
+      "id": "img089",
+      "title": "عابرٌ في الدرب",
+      "titleEn": "عابرٌ في الدرب",
+      "category": "folklore",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0092.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "عابرٌ في الدرب."
+    },
+    {
+      "id": "img090",
+      "title": "هدوءٌ يفكر",
+      "titleEn": "هدوءٌ يفكر",
+      "category": "philosophy",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0093.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "هدوءٌ يفكر."
+    },
+    {
+      "id": "img091",
+      "title": "من حرفٍ وحبر",
+      "titleEn": "من حرفٍ وحبر",
+      "category": "language",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0094(1).jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "من حرفٍ وحبر."
+    },
+    {
+      "id": "img092",
+      "title": "من تفاصيل اليد",
+      "titleEn": "من تفاصيل اليد",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0094.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "من تفاصيل اليد."
+    },
+    {
+      "id": "img093",
+      "title": "من معيشة الناس",
+      "titleEn": "من معيشة الناس",
+      "category": "folklore",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0095.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "من معيشة الناس."
+    },
+    {
+      "id": "img094",
+      "title": "ظلٌّ ونور",
+      "titleEn": "ظلٌّ ونور",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0096.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "ظلٌّ ونور."
+    },
+    {
+      "id": "img095",
+      "title": "عابرٌ في الدرب",
+      "titleEn": "عابرٌ في الدرب",
+      "category": "folklore",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0097.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "عابرٌ في الدرب."
+    },
+    {
+      "id": "img096",
+      "title": "عنصرٌ بصري",
+      "titleEn": "عنصرٌ بصري",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0098.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "عنصرٌ بصري."
+    },
+    {
+      "id": "img097",
+      "title": "من تأمل الفضاء",
+      "titleEn": "من تأمل الفضاء",
+      "category": "philosophy",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0099.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "من تأمل الفضاء."
+    },
+    {
+      "id": "img098",
+      "title": "خطٌّ على ورق",
+      "titleEn": "خطٌّ على ورق",
+      "category": "language",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0100.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "خطٌّ على ورق."
+    },
+    {
+      "id": "img099",
+      "title": "تكوينٌ لوني",
+      "titleEn": "تكوينٌ لوني",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0101.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "تكوينٌ لوني."
+    },
+    {
+      "id": "img100",
+      "title": "بقايا زمان",
+      "titleEn": "بقايا زمان",
+      "category": "history",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0102.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "بقايا زمان."
+    },
+    {
+      "id": "img101",
+      "title": "من زخرفة المكان",
+      "titleEn": "من زخرفة المكان",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0103.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "من زخرفة المكان."
+    },
+    {
+      "id": "img102",
+      "title": "مخلفّ هذا المكان",
+      "titleEn": "مخلفّ هذا المكان",
+      "category": "history",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0104.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "مخلفّ هذا المكان."
+    },
+    {
+      "id": "img103",
+      "title": "من صفحةٍ وورق",
+      "titleEn": "من صفحةٍ وورق",
+      "category": "literature",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0105.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "من صفحةٍ وورق."
+    },
+    {
+      "id": "img104",
+      "title": "خطٌّ على ورق",
+      "titleEn": "خطٌّ على ورق",
+      "category": "language",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0106.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "خطٌّ على ورق."
+    },
+    {
+      "id": "img105",
+      "title": "من معيشة الناس",
+      "titleEn": "من معيشة الناس",
+      "category": "folklore",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0107.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "من معيشة الناس."
+    },
+    {
+      "id": "img106",
+      "title": "بقايا زمان",
+      "titleEn": "بقايا زمان",
+      "category": "history",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0108.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "بقايا زمان."
+    },
+    {
+      "id": "img107",
+      "title": "صمتٌ وحرف",
+      "titleEn": "صمتٌ وحرف",
+      "category": "literature",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0109.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "صمتٌ وحرف."
+    },
+    {
+      "id": "img108",
+      "title": "رقّ ICT",
+      "titleEn": "رقّ ICT",
+      "category": "literature",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0110.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "رقّ ICT."
+    },
+    {
+      "id": "img109",
+      "title": "من صفحةٍ وورق",
+      "titleEn": "من صفحةٍ وورق",
+      "category": "literature",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0111.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "من صفحةٍ وورق."
+    },
+    {
+      "id": "img110",
+      "title": "حجرٌ شاهد",
+      "titleEn": "حجرٌ شاهد",
+      "category": "history",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0112.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "حجرٌ شاهد."
+    },
+    {
+      "id": "img111",
+      "title": "من معيشة الناس",
+      "titleEn": "من معيشة الناس",
+      "category": "folklore",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0113.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "من معيشة الناس."
+    },
+    {
+      "id": "img112",
+      "title": "من زوايا النظر",
+      "titleEn": "من زوايا النظر",
+      "category": "philosophy",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0114.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "من زوايا النظر."
+    },
+    {
+      "id": "img113",
+      "title": "من زخرفة المكان",
+      "titleEn": "من زخرفة المكان",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0115.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "من زخرفة المكان."
+    },
+    {
+      "id": "img114",
+      "title": "عنصرٌ بصري",
+      "titleEn": "عنصرٌ بصري",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0116.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "عنصرٌ بصري."
+    },
+    {
+      "id": "img115",
+      "title": "من تأمل الفضاء",
+      "titleEn": "من تأمل الفضاء",
+      "category": "philosophy",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0118.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "من تأمل الفضاء."
+    },
+    {
+      "id": "img116",
+      "title": "مقعدٌ وحكاية",
+      "titleEn": "مقعدٌ وحكاية",
+      "category": "literature",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0119.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "مقعدٌ وحكاية."
+    },
+    {
+      "id": "img117",
+      "title": "نافذةٌ وفكر",
+      "titleEn": "نافذةٌ وفكر",
+      "category": "philosophy",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0120.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "نافذةٌ وفكر."
+    },
+    {
+      "id": "img118",
+      "title": "ظلٌّ ونور",
+      "titleEn": "ظلٌّ ونور",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0121.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "ظلٌّ ونور."
+    },
+    {
+      "id": "img119",
+      "title": "عابرٌ في الدرب",
+      "titleEn": "عابرٌ في الدرب",
+      "category": "folklore",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0122.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "عابرٌ في الدرب."
+    },
+    {
+      "id": "img120",
+      "title": "مخلفّ هذا المكان",
+      "titleEn": "مخلفّ هذا المكان",
+      "category": "history",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0123.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "مخلفّ هذا المكان."
+    },
+    {
+      "id": "img121",
+      "title": "من صفحةٍ وورق",
+      "titleEn": "من صفحةٍ وورق",
+      "category": "literature",
+      "source": "assets/images/gallery/shada/IMG-20260625-WA0124.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "من صفحةٍ وورق."
+    },
+    {
+      "id": "img122",
+      "title": "صمتٌ ومعنى",
+      "titleEn": "صمتٌ ومعنى",
+      "category": "philosophy",
+      "source": "assets/images/gallery/shada/IMG-20260629-WA0032(1).jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "صمتٌ ومعنى."
+    },
+    {
+      "id": "img123",
+      "title": "تكوينٌ لوني",
+      "titleEn": "تكوينٌ لوني",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260630-WA0002.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "تكوينٌ لوني."
+    },
+    {
+      "id": "img124",
+      "title": "ظلٌّ ونور",
+      "titleEn": "ظلٌّ ونور",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260630-WA0003.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "ظلٌّ ونور."
+    },
+    {
+      "id": "img125",
+      "title": "صمتٌ وحرف",
+      "titleEn": "صمتٌ وحرف",
+      "category": "literature",
+      "source": "assets/images/gallery/shada/IMG-20260704-WA0002.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "صمتٌ وحرف."
+    },
+    {
+      "id": "img126",
+      "title": "مخلفّ هذا المكان",
+      "titleEn": "مخلفّ هذا المكان",
+      "category": "history",
+      "source": "assets/images/gallery/shada/IMG-20260704-WA0003.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "مخلفّ هذا المكان."
+    },
+    {
+      "id": "img127",
+      "title": "من صفحةٍ وورق",
+      "titleEn": "من صفحةٍ وورق",
+      "category": "literature",
+      "source": "assets/images/gallery/shada/IMG-20260704-WA0004.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "من صفحةٍ وورق."
+    },
+    {
+      "id": "img128",
+      "title": "من تفاصيل اليد",
+      "titleEn": "من تفاصيل اليد",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260704-WA0005.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "من تفاصيل اليد."
+    },
+    {
+      "id": "img129",
+      "title": "نافذةٌ وفكر",
+      "titleEn": "نافذةٌ وفكر",
+      "category": "philosophy",
+      "source": "assets/images/gallery/shada/IMG-20260704-WA0006.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "نافذةٌ وفكر."
+    },
+    {
+      "id": "img130",
+      "title": "أثر قلم",
+      "titleEn": "أثر قلم",
+      "category": "language",
+      "source": "assets/images/gallery/shada/IMG-20260704-WA0007.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "أثر قلم."
+    },
+    {
+      "id": "img131",
+      "title": "من زخرفة المكان",
+      "titleEn": "من زخرفة المكان",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260704-WA0008.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "من زخرفة المكان."
+    },
+    {
+      "id": "img132",
+      "title": "هدوءٌ يفكر",
+      "titleEn": "هدوءٌ يفكر",
+      "category": "philosophy",
+      "source": "assets/images/gallery/shada/IMG-20260704-WA0009.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "هدوءٌ يفكر."
+    },
+    {
+      "id": "img133",
+      "title": "من صفحةٍ وورق",
+      "titleEn": "من صفحةٍ وورق",
+      "category": "literature",
+      "source": "assets/images/gallery/shada/IMG-20260704-WA0010.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "من صفحةٍ وورق."
+    },
+    {
+      "id": "img134",
+      "title": "مقعدٌ وحكاية",
+      "titleEn": "مقعدٌ وحكاية",
+      "category": "literature",
+      "source": "assets/images/gallery/shada/IMG-20260704-WA0011.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "مقعدٌ وحكاية."
+    },
+    {
+      "id": "img135",
+      "title": "من سواد الحرف",
+      "titleEn": "من سواد الحرف",
+      "category": "language",
+      "source": "assets/images/gallery/shada/IMG-20260704-WA0012.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "من سواد الحرف."
+    },
+    {
+      "id": "img136",
+      "title": "ظلٌّ ونور",
+      "titleEn": "ظلٌّ ونور",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260704-WA0013.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "ظلٌّ ونور."
+    },
+    {
+      "id": "img137",
+      "title": "ذاكرة المكان",
+      "titleEn": "ذاكرة المكان",
+      "category": "history",
+      "source": "assets/images/gallery/shada/IMG-20260704-WA0014.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "ذاكرة المكان."
+    },
+    {
+      "id": "img138",
+      "title": "رقّ ICT",
+      "titleEn": "رقّ ICT",
+      "category": "literature",
+      "source": "assets/images/gallery/shada/IMG-20260704-WA0017.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "رقّ ICT."
+    },
+    {
+      "id": "img139",
+      "title": "على الجدار",
+      "titleEn": "على الجدار",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260704-WA0018.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "على الجدار."
+    },
+    {
+      "id": "img140",
+      "title": "خطٌّ على ورق",
+      "titleEn": "خطٌّ على ورق",
+      "category": "language",
+      "source": "assets/images/gallery/shada/IMG-20260704-WA0019.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "خطٌّ على ورق."
+    },
+    {
+      "id": "img141",
+      "title": "تكوينٌ لوني",
+      "titleEn": "تكوينٌ لوني",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260704-WA0020.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "تكوينٌ لوني."
+    },
+    {
+      "id": "img142",
+      "title": "كتابٌ ومنارة",
+      "titleEn": "كتابٌ ومنارة",
+      "category": "literature",
+      "source": "assets/images/gallery/shada/IMG-20260704-WA0021.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "كتابٌ ومنارة."
+    },
+    {
+      "id": "img143",
+      "title": "رقنٌ يدوي",
+      "titleEn": "رقنٌ يدوي",
+      "category": "language",
+      "source": "assets/images/gallery/shada/IMG-20260704-WA0022.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "رقنٌ يدوي."
+    },
+    {
+      "id": "img144",
+      "title": "عنصرٌ بصري",
+      "titleEn": "عنصرٌ بصري",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260704-WA0023.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "عنصرٌ بصري."
+    },
+    {
+      "id": "img145",
+      "title": "أثرٌ من الماضي",
+      "titleEn": "أثرٌ من الماضي",
+      "category": "history",
+      "source": "assets/images/gallery/shada/IMG-20260704-WA0025.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "أثرٌ من الماضي."
+    },
+    {
+      "id": "img146",
+      "title": "مشهدٌ محلي",
+      "titleEn": "مشهدٌ محلي",
+      "category": "folklore",
+      "source": "assets/images/gallery/shada/IMG-20260715-WA0005.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "مشهدٌ محلي."
+    },
+    {
+      "id": "img147",
+      "title": "تكوينٌ لوني",
+      "titleEn": "تكوينٌ لوني",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260715-WA0006.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "تكوينٌ لوني."
+    },
+    {
+      "id": "img148",
+      "title": "ظلٌّ ونور",
+      "titleEn": "ظلٌّ ونور",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260715-WA0007.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "ظلٌّ ونور."
+    },
+    {
+      "id": "img149",
+      "title": "رقنٌ يدوي",
+      "titleEn": "رقنٌ يدوي",
+      "category": "language",
+      "source": "assets/images/gallery/shada/IMG-20260715-WA0008.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "رقنٌ يدوي."
+    },
+    {
+      "id": "img150",
+      "title": "مخلفّ هذا المكان",
+      "titleEn": "مخلفّ هذا المكان",
+      "category": "history",
+      "source": "assets/images/gallery/shada/IMG-20260715-WA0009(1).jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "مخلفّ هذا المكان."
+    },
+    {
+      "id": "img151",
+      "title": "على الجدار",
+      "titleEn": "على الجدار",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260715-WA0010.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "على الجدار."
+    },
+    {
+      "id": "img152",
+      "title": "مشهدٌ محلي",
+      "titleEn": "مشهدٌ محلي",
+      "category": "folklore",
+      "source": "assets/images/gallery/shada/IMG-20260715-WA0011.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "مشهدٌ محلي."
+    },
+    {
+      "id": "img153",
+      "title": "نافذةٌ وفكر",
+      "titleEn": "نافذةٌ وفكر",
+      "category": "philosophy",
+      "source": "assets/images/gallery/shada/IMG-20260715-WA0012.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "نافذةٌ وفكر."
+    },
+    {
+      "id": "img154",
+      "title": "ريحة المكان",
+      "titleEn": "ريحة المكان",
+      "category": "folklore",
+      "source": "assets/images/gallery/shada/IMG-20260715-WA0013.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "ريحة المكان."
+    },
+    {
+      "id": "img155",
+      "title": "من زخرفة المكان",
+      "titleEn": "من زخرفة المكان",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260715-WA0014.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "من زخرفة المكان."
+    },
+    {
+      "id": "img156",
+      "title": "عنصرٌ بصري",
+      "titleEn": "عنصرٌ بصري",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260715-WA0015.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "عنصرٌ بصري."
+    },
+    {
+      "id": "img157",
+      "title": "من حرفٍ وحبر",
+      "titleEn": "من حرفٍ وحبر",
+      "category": "language",
+      "source": "assets/images/gallery/shada/IMG-20260715-WA0016.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "من حرفٍ وحبر."
+    },
+    {
+      "id": "img158",
+      "title": "مقعدٌ وحكاية",
+      "titleEn": "مقعدٌ وحكاية",
+      "category": "literature",
+      "source": "assets/images/gallery/shada/IMG-20260715-WA0017.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "مقعدٌ وحكاية."
+    },
+    {
+      "id": "img159",
+      "title": "نافذةٌ وفكر",
+      "titleEn": "نافذةٌ وفكر",
+      "category": "philosophy",
+      "source": "assets/images/gallery/shada/IMG-20260715-WA0018.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "نافذةٌ وفكر."
+    },
+    {
+      "id": "img160",
+      "title": "بقايا زمان",
+      "titleEn": "بقايا زمان",
+      "category": "history",
+      "source": "assets/images/gallery/shada/IMG-20260715-WA0019.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "بقايا زمان."
+    },
+    {
+      "id": "img161",
+      "title": "رقنٌ يدوي",
+      "titleEn": "رقنٌ يدوي",
+      "category": "language",
+      "source": "assets/images/gallery/shada/IMG-20260715-WA0020.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "رقنٌ يدوي."
+    },
+    {
+      "id": "img162",
+      "title": "لمحةٌ شعبية",
+      "titleEn": "لمحةٌ شعبية",
+      "category": "folklore",
+      "source": "assets/images/gallery/shada/IMG-20260715-WA0021.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "لمحةٌ شعبية."
+    },
+    {
+      "id": "img163",
+      "title": "من تفاصيل اليوم",
+      "titleEn": "من تفاصيل اليوم",
+      "category": "folklore",
+      "source": "assets/images/gallery/shada/IMG-20260715-WA0022.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "من تفاصيل اليوم."
+    },
+    {
+      "id": "img164",
+      "title": "مقعدٌ وحكاية",
+      "titleEn": "مقعدٌ وحكاية",
+      "category": "literature",
+      "source": "assets/images/gallery/shada/IMG-20260715-WA0023.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "مقعدٌ وحكاية."
+    },
+    {
+      "id": "img165",
+      "title": "من بناءٍ قديم",
+      "titleEn": "من بناءٍ قديم",
+      "category": "history",
+      "source": "assets/images/gallery/shada/IMG-20260715-WA0024.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "من بناءٍ قديم."
+    },
+    {
+      "id": "img166",
+      "title": "بقايا زمان",
+      "titleEn": "بقايا زمان",
+      "category": "history",
+      "source": "assets/images/gallery/shada/IMG-20260715-WA0025.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "بقايا زمان."
+    },
+    {
+      "id": "img167",
+      "title": "من زخرفة المكان",
+      "titleEn": "من زخرفة المكان",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260715-WA0026.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "من زخرفة المكان."
+    },
+    {
+      "id": "img168",
+      "title": "رقّ ICT",
+      "titleEn": "رقّ ICT",
+      "category": "literature",
+      "source": "assets/images/gallery/shada/IMG-20260715-WA0027.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "رقّ ICT."
+    },
+    {
+      "id": "img169",
+      "title": "على الجدار",
+      "titleEn": "على الجدار",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260715-WA0028.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "على الجدار."
+    },
+    {
+      "id": "img170",
+      "title": "من تفاصيل اليد",
+      "titleEn": "من تفاصيل اليد",
+      "category": "arts",
+      "source": "assets/images/gallery/shada/IMG-20260715-WA0029.jpg",
+      "orientation": "portrait",
+      "folder": "shada",
+      "description": "من تفاصيل اليد."
+    },
+    {
+      "id": "img171",
+      "title": "من معيشة الناس",
+      "titleEn": "من معيشة الناس",
+      "category": "folklore",
+      "source": "assets/images/gallery/shada/IMG-20260715-WA0030.jpg",
+      "orientation": "landscape",
+      "folder": "shada",
+      "description": "من معيشة الناس."
+    },
+    {
+      "id": "img172",
+      "title": "من زوايا النظر",
+      "titleEn": "من زوايا النظر",
+      "category": "philosophy",
+      "source": "assets/images/gallery/shada/IMG-20260715-WA0031.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "من زوايا النظر."
+    },
+    {
+      "id": "img173",
+      "title": "تأملٌ في المكان",
+      "titleEn": "تأملٌ في المكان",
+      "category": "philosophy",
+      "source": "assets/images/gallery/shada/IMG-20260715-WA0032.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "تأملٌ في المكان."
+    },
+    {
+      "id": "img174",
+      "title": "مخلفّ هذا المكان",
+      "titleEn": "مخلفّ هذا المكان",
+      "category": "history",
+      "source": "assets/images/gallery/shada/IMG-20260715-WA0033.jpg",
+      "orientation": "square",
+      "folder": "shada",
+      "description": "مخلفّ هذا المكان."
+    },
+    {
+      "id": "img175",
+      "title": "من تفاصيل اليوم",
+      "titleEn": "من تفاصيل اليوم",
+      "category": "folklore",
+      "source": "assets/images/gallery/storyteller.svg",
+      "orientation": "landscape",
+      "folder": "gallery",
+      "description": "من تفاصيل اليوم."
+    },
+    {
+      "id": "img176",
+      "title": "مشهدٌ محلي",
+      "titleEn": "مشهدٌ محلي",
+      "category": "folklore",
+      "source": "assets/images/gallery/tile.svg",
+      "orientation": "landscape",
+      "folder": "gallery",
+      "description": "مشهدٌ محلي."
+    }
+  ]
+}

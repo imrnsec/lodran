@@ -1,0 +1,17 @@
+{
+  "name": "لُدران — Lodran",
+  "short_name": "لُدران",
+  "description": "مكتبةٌ ثقافية غير ربحية تجمع الكتب والمقالات والصور عبر الأدب والتاريخ والفلسفة والفنون والتراث الشعبي واللغة.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f3ea",
+  "theme_color": "#6e4f24",
+  "orientation": "any",
+  "icons": [
+    { "src": "assets/images/logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "assets/images/logo.svg", "sizes": "192x192 512x512", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}

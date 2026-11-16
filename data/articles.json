@@ -1,0 +1,108 @@
+{
+  "articles": [
+    {
+      "id": "a001",
+      "title": "في ذاكرة المدن",
+      "titleEn": "On the Memory of Cities",
+      "author": "تحرير لُدران",
+      "authorEn": "Lodran Editorial",
+      "category": "history",
+      "date": "2025-03-12",
+      "readTime": 8,
+      "cover": "assets/images/covers/articles/cities.svg",
+      "excerpt": "كيف تحمل حجارةُ المدن العتيقة ذاكرةَ الشعوب التي بنتها وتركتها ثم عادت إليها.",
+      "tags": ["ذاكرة المكان", "تراث", "عمارة"]
+    },
+    {
+      "id": "a002",
+      "title": "التقاليد الشفاهية وحفظتها",
+      "titleEn": "The Oral Tradition and Its Keepers",
+      "author": "تحرير لُدران",
+      "authorEn": "Lodran Editorial",
+      "category": "folklore",
+      "date": "2025-04-02",
+      "readTime": 6,
+      "cover": "assets/images/covers/articles/oral.svg",
+      "excerpt": "تأملٌ في الحكواتيين والرواة وشيوخ المجتمع الذين حملوا الذاكرة الثقافية عبر الأجيال دون أن يكتبوا كلمة واحدة.",
+      "tags": ["حكي", "ذاكرة", "تراث"]
+    },
+    {
+      "id": "a003",
+      "title": "لماذا نعود إلى الكلاسيكيات",
+      "titleEn": "Why We Return to the Classics",
+      "author": "تحرير لُدران",
+      "authorEn": "Lodran Editorial",
+      "category": "literature",
+      "date": "2025-05-18",
+      "readTime": 7,
+      "cover": "assets/images/covers/articles/classics.svg",
+      "excerpt": "عن الراهنية الدائمة للنصوص الكلاسيكية وعما تعلّمنا إياه عن الانتباه والصبر وصورة الفكرة الطويلة.",
+      "tags": ["كلاسيكيات", "قراءة", "تأمل"]
+    },
+    {
+      "id": "a004",
+      "title": "هندسة الزخرفة",
+      "titleEn": "The Geometry of Islamic ornament",
+      "author": "تحرير لُدران",
+      "authorEn": "Lodran Editorial",
+      "category": "arts",
+      "date": "2025-06-04",
+      "readTime": 10,
+      "cover": "assets/images/covers/articles/geometry.svg",
+      "excerpt": "بحثٌ في الأصول الرياضية والمعاني الروحية الكامنة في هندسة الزخرفة التقليدية.",
+      "tags": ["هندسة", "زخرفة", "تصميم"]
+    },
+    {
+      "id": "a005",
+      "title": "ابن خلدون وعلم المجتمع",
+      "titleEn": "Ibn Khaldun and the Science of Society",
+      "author": "تحرير لُدران",
+      "authorEn": "Lodran Editorial",
+      "category": "philosophy",
+      "date": "2025-06-22",
+      "readTime": 9,
+      "cover": "assets/images/covers/articles/khaldun.svg",
+      "excerpt": "إعادة قراءة المقدمة بوصفها نصًّا حيًّا: رؤاها عن العصبية والترف ودورات حياة الدول ما تزال راهنة اليوم.",
+      "tags": ["علم الاجتماع", "ابن خلدون", "دولة"]
+    },
+    {
+      "id": "a006",
+      "title": "ما تذكره القصيدة وينساه التاريخ",
+      "titleEn": "What Poetry Remembers That History Forgets",
+      "author": "تحرير لُدران",
+      "authorEn": "Lodran Editorial",
+      "category": "literature",
+      "date": "2025-07-01",
+      "readTime": 5,
+      "cover": "assets/images/covers/articles/poetry.svg",
+      "excerpt": "عن الأبيات التي تنجو من القلاقل وتحمل حقيقة العامية والشعور وملمس الحياة اليومية.",
+      "tags": ["شعر", "ذاكرة", "عامية"]
+    },
+    {
+      "id": "a007",
+      "title": "النيل في المخيلة السودانية",
+      "titleEn": "The Nile in Sudanese Imagination",
+      "author": "تحرير لُدران",
+      "authorEn": "Lodran Editorial",
+      "category": "folklore",
+      "date": "2025-07-10",
+      "readTime": 8,
+      "cover": "assets/images/covers/articles/nile.svg",
+      "excerpt": "من أغاني الأعراس إلى التراحم ينساب النيل في أغنيات وحكايات الشعب السوداني.",
+      "tags": ["النيل", "السودان", "أغنيات"]
+    },
+    {
+      "id": "a008",
+      "title": "ملاحظة موجزة في النحو العربي",
+      "titleEn": "A Brief Note on Arabic Grammar",
+      "author": "تحرير لُدران",
+      "authorEn": "Lodran Editorial",
+      "category": "language",
+      "date": "2025-07-14",
+      "readTime": 4,
+      "cover": "assets/images/covers/articles/grammar.svg",
+      "excerpt": "مدخلٌ لطيف إلى بنية النحو العربي للقارئ الفضولي، مع ملاحظاتٍ على منطقه وجماله.",
+      "tags": ["نحو", "تمهيدي", "عربية"]
+    }
+  ]
+}

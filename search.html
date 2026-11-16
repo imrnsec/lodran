@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>البحث — لُدران</title>
+<meta name="description" content="بحثٌ نصّيٌّ في كتب لُدران ومقالاتها وملفات معرضها.">
+<link rel="icon" href="assets/images/logo.svg" type="image/svg+xml">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="css/style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Readex+Pro:wght@160..700&display=swap" rel="stylesheet">
+</head>
+<body>
+<header class="site-header" id="siteHeader"></header>
+<main>
+<section class="page-head">
+  <p class="breadcrumb"><a href="index.html">الرئيسية</a> <span>‹</span> البحث</p>
+  <h1 class="page-title">البحث</h1>
+  <p class="page-lede">ابحث في كتب لُدران ومقالاتها وملفات معرضها بلاحتمالٍ للخطأ المطبعي.</p>
+</section>
+
+<section class="search-page">
+  <div class="search-box">
+    <input type="search" id="searchInput" class="search-input search-input-lg" placeholder="عنوان، مؤلف، وسم، وصف…" autofocus aria-label="استعلام البحث">
+    <span class="search-count" id="searchCount">ابدأ بالكتابة…</span>
+  </div>
+
+  <div class="search-filters" id="searchFilters">
+    <label class="filter-chip-wrap"><input type="radio" name="kind" value="all" checked> <span>الكل</span></label>
+    <label class="filter-chip-wrap"><input type="radio" name="kind" value="books"> <span>كتب</span></label>
+    <label class="filter-chip-wrap"><input type="radio" name="kind" value="articles"> <span>مقالات</span></label>
+    <label class="filter-chip-wrap"><input type="radio" name="kind" value="gallery"> <span>معرض</span></label>
+  </div>
+
+  <div class="search-results" id="searchResults">
+    <p class="empty-state">اكتب كلمةً للبحث عنها في أرجاء لُدران.</p>
+  </div>
+</section>
+</main>
+<footer class="site-footer" id="siteFooter"></footer>
+<script src="js/data.js"></script>
+<script src="js/fuse.min.js"></script>
+<script src="js/app.js"></script>
+<script src="js/search.js"></script>
+</body>
+</html>

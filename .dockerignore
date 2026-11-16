@@ -1,0 +1,25 @@
+# Keep the Docker build context lean.
+# Don't send dev cruft or host caches into the image build.
+
+.git
+.gitignore
+.github
+.vscode
+.idea
+.DS_Store
+*.swp
+*.swo
+node_modules
+npm-debug.log*
+yarn-error.log
+README.md
+README*.md
+*.md
+.env
+.env.*
+docker-compose*.yml
+.dockerignore
+
+# Don't ship the raw photo archive zip — the extracted images already ship.
+*.zip
+assets/images/gallery/shada.zip

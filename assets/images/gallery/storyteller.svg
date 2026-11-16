@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" preserveAspectRatio="xMidYMid slice">
+<rect width="400" height="400" fill="#d5cbb8"/>
+<circle cx="3" cy="3" r="11" fill="#6b5b3e" opacity="0.12"/><circle cx="50" cy="62" r="12" fill="#6b5b3e" opacity="0.12"/><circle cx="31" cy="8" r="21" fill="#6b5b3e" opacity="0.12"/><circle cx="16" cy="31" r="11" fill="#6b5b3e" opacity="0.12"/><circle cx="52" cy="22" r="8" fill="#6b5b3e" opacity="0.12"/><circle cx="31" cy="41" r="8" fill="#6b5b3e" opacity="0.12"/><polygon points="74.0,38.0 57.4,45.4 50.0,62.0 42.6,45.4 26.0,38.0 42.6,30.6 50.0,14.0 57.4,30.6" fill="#6b5b3e" opacity="0.28"/>
+<polygon points="200,120 280,240 120,240" fill="#6b5b3e" opacity="0.35"/>
+<polygon points="200,90 270,210 130,210" fill="#6b5b3e" opacity="0.22"/>
+<rect x="20" y="330" width="360" height="1.5" fill="#6b5b3e" opacity="0.5"/>
+<text x="200" y="360" font-family="Georgia,serif" font-size="15" fill="#6b5b3e" text-anchor="middle">The Storyteller's Circle</text>
+</svg>

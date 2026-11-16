@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>لُدران — مكتبة ثقافية</title>
+<meta name="description" content="لُدران مكتبة ثقافية غير ربحية ومركز يجمع الكتب والمقالات والصور عبر الأدب والتاريخ والفلسفة والفنون والتراث الشعبي واللغة.">
+<link rel="icon" href="assets/images/logo.svg" type="image/svg+xml">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="css/style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Readex+Pro:wght@160..700&display=swap" rel="stylesheet">
+</head>
+<body>
+<header class="site-header" id="siteHeader"></header>
+<main>
+<section class="hero">
+  <div class="hero-bg" style="background-image:url('assets/images/hero.svg')"></div>
+  <div class="hero-content">
+    <p class="hero-eyebrow">مكتبة ثقافية غير ربحية</p>
+    <h1 class="hero-title">  لُدران - Lodran </h1>
+    <p class="hero-sub">بيتٌ للكلمة المكتوبة، والحكاية المحكية، والصورة الباقية — يجمع ذاكرة الثقافات رفًّا برفٍّ.</p>
+    <div class="hero-actions">
+      <a href="library.html" class="btn btn-primary" data-i18n-ar="تصفّح المكتبة" data-i18n-en="Browse the library">تصفّح المكتبة</a>
+      <a href="gallery.html" class="btn btn-ghost" data-i18n-ar="زيارة المعرض" data-i18n-en="Visit the gallery">زيارة المعرض</a>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-head">
+    <h2 class="section-title">تصفّح حسب التصنيف</h2>
+    <p class="section-lede">تنظّم لُدران محتواها عبر ستة خيوطٍ من الحياة الثقافية. اتبع أي مسار لتكتشف ما تحويه الرفوف.</p>
+  </div>
+  <div class="category-grid" id="categoryGrid"></div>
+</section>
+
+<section class="section section-alt">
+  <div class="section-head">
+    <h2 class="section-title">من الرفوف</h2>
+    <p class="section-lede">مختاراتٌ مما تحويه المكتبة حاليًا. تنمو المجموعة كلما أولاها المتطوّعون عنايتهم.</p>
+  </div>
+  <div class="card-grid" id="featuredGrid"></div>
+  <div class="section-foot">
+    <a href="library.html" class="btn btn-soft">عرض كل العناوين →</a>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-head">
+    <h2 class="section-title">مقالات حديثة</h2>
+    <p class="section-lede">تأملاتٌ وملاحظات قصيرة من محرري لُدران، إلى جانب أصواتٍ مدعوة.</p>
+  </div>
+  <div class="card-grid" id="articleGrid"></div>
+  <div class="section-foot">
+    <a href="library.html#articles" class="btn btn-soft">قراءة المزيد من المقالات →</a>
+  </div>
+</section>
+
+<section class="section section-alt" id="quoteOfDay">
+  <div class="section-head">
+    <h2 class="section-title">قولةُ اليوم</h2>
+    <p class="section-lede">خاطرةٌ من حكمة الأمّة، تتجدّد كلَّ فجرٍ بسطرٍ آخر.</p>
+  </div>
+  <div class="quote-block" id="quoteBlock">
+    <p class="quote-mark">”</p>
+    <blockquote id="quoteText">…</blockquote>
+    <p class="quote-attrib" id="quoteAttrib"></p>
+    <p class="quote-attrib-en" id="quoteAttribEn"></p>
+  </div>
+</section>
+</main>
+<footer class="site-footer" id="siteFooter"></footer>
+<script src="js/data.js"></script>
+<script src="js/app.js"></script>
+<script src="js/home.js"></script>
+</body>
+</html>

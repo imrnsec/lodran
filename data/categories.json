@@ -1,0 +1,10 @@
+{
+  "categories": [
+    { "id": "literature", "name": "الأدب", "nameEn": "Literature", "description": "رواياتٌ وقصصٌ قصيرةٌ وشعرٌ وتقاليدٌ سرديةٌ من أنحاء المنطقة.", "icon": "book" },
+    { "id": "history", "name": "التاريخ", "nameEn": "History", "description": "حولياتٌ وسيرٌ ودراساتٌ توثّق الشعوب والأحداث في الماضي.", "icon": "scroll" },
+    { "id": "philosophy", "name": "الفلسفة", "nameEn": "Philosophy", "description": "فكرٌ وأخلاقٌ وتأملاتٌ في حال الإنسان والمجتمع.", "icon": "compass" },
+    { "id": "arts", "name": "الفنون", "nameEn": "Arts", "description": "فنونٌ بصريةٌ وخطٌّ عربيٌّ وعمارةٌ وجمالياتُ التعبير الثقافي.", "icon": "palette" },
+    { "id": "folklore", "name": "التراث الشعبي", "nameEn": "Folklore", "description": "تقاليدٌ شفاهيةٌ وأساطيرُ وحكاياتٌ وحكمةٌ تناقلها الأجيال.", "icon": "feather" },
+    { "id": "language", "name": "اللغة", "nameEn": "Language", "description": "لغوياتٌ ونحوٌ وبحور الشعر ودراسة اللسان العربي واللسان المحلي.", "icon": "abc" }
+  ]
+}
