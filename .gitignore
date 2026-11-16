@@ -1,0 +1,21 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Dependencies and logs
+node_modules/
+npm-debug.log*
+yarn-error.log
+
+# Secrets
+.env
+.env.*
+
+# Local build output and archives
+_site/
+*.zip
+__pycache__/

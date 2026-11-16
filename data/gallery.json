@@ -105,7 +105,7 @@
       "title": "ذاكرة المكان",
       "titleEn": "ذاكرة المكان",
       "category": "history",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0009.jpg",
+      "source": "assets/images/gallery/shada/shada-001.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "ذاكرة المكان."
@@ -115,7 +115,7 @@
       "title": "مخلفّ هذا المكان",
       "titleEn": "مخلفّ هذا المكان",
       "category": "history",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0010.jpg",
+      "source": "assets/images/gallery/shada/shada-002.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "مخلفّ هذا المكان."
@@ -125,7 +125,7 @@
       "title": "من حرفٍ وحبر",
       "titleEn": "من حرفٍ وحبر",
       "category": "language",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0011.jpg",
+      "source": "assets/images/gallery/shada/shada-003.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "من حرفٍ وحبر."
@@ -135,7 +135,7 @@
       "title": "مقعدٌ وحكاية",
       "titleEn": "مقعدٌ وحكاية",
       "category": "literature",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0012.jpg",
+      "source": "assets/images/gallery/shada/shada-004.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "مقعدٌ وحكاية."
@@ -145,7 +145,7 @@
       "title": "من سواد الحرف",
       "titleEn": "من سواد الحرف",
       "category": "language",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0016.jpg",
+      "source": "assets/images/gallery/shada/shada-005.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "من سواد الحرف."
@@ -155,7 +155,7 @@
       "title": "ظلٌّ ونور",
       "titleEn": "ظلٌّ ونور",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0017.jpg",
+      "source": "assets/images/gallery/shada/shada-006.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "ظلٌّ ونور."
@@ -165,7 +165,7 @@
       "title": "رقنٌ يدوي",
       "titleEn": "رقنٌ يدوي",
       "category": "language",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0018.jpg",
+      "source": "assets/images/gallery/shada/shada-007.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "رقنٌ يدوي."
@@ -175,7 +175,7 @@
       "title": "لمحةٌ شعبية",
       "titleEn": "لمحةٌ شعبية",
       "category": "folklore",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0019.jpg",
+      "source": "assets/images/gallery/shada/shada-008.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "لمحةٌ شعبية."
@@ -185,7 +185,7 @@
       "title": "على الجدار",
       "titleEn": "على الجدار",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0020.jpg",
+      "source": "assets/images/gallery/shada/shada-009.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "على الجدار."
@@ -195,7 +195,7 @@
       "title": "خطٌّ على ورق",
       "titleEn": "خطٌّ على ورق",
       "category": "language",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0021.jpg",
+      "source": "assets/images/gallery/shada/shada-010.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "خطٌّ على ورق."
@@ -205,7 +205,7 @@
       "title": "نافذةٌ وفكر",
       "titleEn": "نافذةٌ وفكر",
       "category": "philosophy",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0022.jpg",
+      "source": "assets/images/gallery/shada/shada-011.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "نافذةٌ وفكر."
@@ -215,7 +215,7 @@
       "title": "بقايا زمان",
       "titleEn": "بقايا زمان",
       "category": "history",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0023.jpg",
+      "source": "assets/images/gallery/shada/shada-012.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "بقايا زمان."
@@ -225,7 +225,7 @@
       "title": "تأملٌ في المكان",
       "titleEn": "تأملٌ في المكان",
       "category": "philosophy",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0024.jpg",
+      "source": "assets/images/gallery/shada/shada-013.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "تأملٌ في المكان."
@@ -235,7 +235,7 @@
       "title": "لمحةٌ شعبية",
       "titleEn": "لمحةٌ شعبية",
       "category": "folklore",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0025.jpg",
+      "source": "assets/images/gallery/shada/shada-014.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "لمحةٌ شعبية."
@@ -245,7 +245,7 @@
       "title": "على الجدار",
       "titleEn": "على الجدار",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0026.jpg",
+      "source": "assets/images/gallery/shada/shada-015.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "على الجدار."
@@ -255,7 +255,7 @@
       "title": "خطٌّ على ورق",
       "titleEn": "خطٌّ على ورق",
       "category": "language",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0027.jpg",
+      "source": "assets/images/gallery/shada/shada-016.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "خطٌّ على ورق."
@@ -265,7 +265,7 @@
       "title": "من بناءٍ قديم",
       "titleEn": "من بناءٍ قديم",
       "category": "history",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0028.jpg",
+      "source": "assets/images/gallery/shada/shada-017.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "من بناءٍ قديم."
@@ -275,7 +275,7 @@
       "title": "بقايا زمان",
       "titleEn": "بقايا زمان",
       "category": "history",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0029.jpg",
+      "source": "assets/images/gallery/shada/shada-018.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "بقايا زمان."
@@ -285,7 +285,7 @@
       "title": "عابرٌ في الدرب",
       "titleEn": "عابرٌ في الدرب",
       "category": "folklore",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0030.jpg",
+      "source": "assets/images/gallery/shada/shada-019.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "عابرٌ في الدرب."
@@ -295,7 +295,7 @@
       "title": "لمحةٌ شعبية",
       "titleEn": "لمحةٌ شعبية",
       "category": "folklore",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0031.jpg",
+      "source": "assets/images/gallery/shada/shada-020.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "لمحةٌ شعبية."
@@ -305,7 +305,7 @@
       "title": "على الجدار",
       "titleEn": "على الجدار",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0032.jpg",
+      "source": "assets/images/gallery/shada/shada-021.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "على الجدار."
@@ -315,7 +315,7 @@
       "title": "صمتٌ ومعنى",
       "titleEn": "صمتٌ ومعنى",
       "category": "philosophy",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0033.jpg",
+      "source": "assets/images/gallery/shada/shada-022.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "صمتٌ ومعنى."
@@ -325,7 +325,7 @@
       "title": "من معيشة الناس",
       "titleEn": "من معيشة الناس",
       "category": "folklore",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0034.jpg",
+      "source": "assets/images/gallery/shada/shada-023.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "من معيشة الناس."
@@ -335,7 +335,7 @@
       "title": "من زوايا النظر",
       "titleEn": "من زوايا النظر",
       "category": "philosophy",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0035.jpg",
+      "source": "assets/images/gallery/shada/shada-024.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "من زوايا النظر."
@@ -345,7 +345,7 @@
       "title": "تأملٌ في المكان",
       "titleEn": "تأملٌ في المكان",
       "category": "philosophy",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0036.jpg",
+      "source": "assets/images/gallery/shada/shada-025.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "تأملٌ في المكان."
@@ -355,7 +355,7 @@
       "title": "لمحةٌ شعبية",
       "titleEn": "لمحةٌ شعبية",
       "category": "folklore",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0037.jpg",
+      "source": "assets/images/gallery/shada/shada-026.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "لمحةٌ شعبية."
@@ -365,7 +365,7 @@
       "title": "أثرٌ من الماضي",
       "titleEn": "أثرٌ من الماضي",
       "category": "history",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0038.jpg",
+      "source": "assets/images/gallery/shada/shada-027.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "أثرٌ من الماضي."
@@ -375,7 +375,7 @@
       "title": "حجرٌ شاهد",
       "titleEn": "حجرٌ شاهد",
       "category": "history",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0039.jpg",
+      "source": "assets/images/gallery/shada/shada-028.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "حجرٌ شاهد."
@@ -385,7 +385,7 @@
       "title": "تكوينٌ لوني",
       "titleEn": "تكوينٌ لوني",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0040.jpg",
+      "source": "assets/images/gallery/shada/shada-029.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "تكوينٌ لوني."
@@ -395,7 +395,7 @@
       "title": "ظلٌّ ونور",
       "titleEn": "ظلٌّ ونور",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0041.jpg",
+      "source": "assets/images/gallery/shada/shada-030.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "ظلٌّ ونور."
@@ -405,7 +405,7 @@
       "title": "عابرٌ في الدرب",
       "titleEn": "عابرٌ في الدرب",
       "category": "folklore",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0042.jpg",
+      "source": "assets/images/gallery/shada/shada-031.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "عابرٌ في الدرب."
@@ -415,7 +415,7 @@
       "title": "عنصرٌ بصري",
       "titleEn": "عنصرٌ بصري",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0043.jpg",
+      "source": "assets/images/gallery/shada/shada-032.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "عنصرٌ بصري."
@@ -425,7 +425,7 @@
       "title": "من تفاصيل اليوم",
       "titleEn": "من تفاصيل اليوم",
       "category": "folklore",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0044.jpg",
+      "source": "assets/images/gallery/shada/shada-033.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "من تفاصيل اليوم."
@@ -435,7 +435,7 @@
       "title": "مقعدٌ وحكاية",
       "titleEn": "مقعدٌ وحكاية",
       "category": "literature",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0045.jpg",
+      "source": "assets/images/gallery/shada/shada-034.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "مقعدٌ وحكاية."
@@ -445,7 +445,7 @@
       "title": "نافذةٌ وفكر",
       "titleEn": "نافذةٌ وفكر",
       "category": "philosophy",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0046.jpg",
+      "source": "assets/images/gallery/shada/shada-035.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "نافذةٌ وفكر."
@@ -455,7 +455,7 @@
       "title": "بقايا زمان",
       "titleEn": "بقايا زمان",
       "category": "history",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0047.jpg",
+      "source": "assets/images/gallery/shada/shada-036.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "بقايا زمان."
@@ -465,7 +465,7 @@
       "title": "تأملٌ في المكان",
       "titleEn": "تأملٌ في المكان",
       "category": "philosophy",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0048.jpg",
+      "source": "assets/images/gallery/shada/shada-037.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "تأملٌ في المكان."
@@ -475,7 +475,7 @@
       "title": "رقّ ICT",
       "titleEn": "رقّ ICT",
       "category": "literature",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0049.jpg",
+      "source": "assets/images/gallery/shada/shada-038.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "رقّ ICT."
@@ -485,7 +485,7 @@
       "title": "من حرفٍ وحبر",
       "titleEn": "من حرفٍ وحبر",
       "category": "language",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0050.jpg",
+      "source": "assets/images/gallery/shada/shada-039.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "من حرفٍ وحبر."
@@ -495,7 +495,7 @@
       "title": "مشهدٌ محلي",
       "titleEn": "مشهدٌ محلي",
       "category": "folklore",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0051.jpg",
+      "source": "assets/images/gallery/shada/shada-040.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "مشهدٌ محلي."
@@ -505,7 +505,7 @@
       "title": "نافذةٌ وفكر",
       "titleEn": "نافذةٌ وفكر",
       "category": "philosophy",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0052.jpg",
+      "source": "assets/images/gallery/shada/shada-041.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "نافذةٌ وفكر."
@@ -515,7 +515,7 @@
       "title": "أثر قلم",
       "titleEn": "أثر قلم",
       "category": "language",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0053.jpg",
+      "source": "assets/images/gallery/shada/shada-042.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "أثر قلم."
@@ -525,7 +525,7 @@
       "title": "تأملٌ في المكان",
       "titleEn": "تأملٌ في المكان",
       "category": "philosophy",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0054.jpg",
+      "source": "assets/images/gallery/shada/shada-043.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "تأملٌ في المكان."
@@ -535,7 +535,7 @@
       "title": "هدوءٌ يفكر",
       "titleEn": "هدوءٌ يفكر",
       "category": "philosophy",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0055.jpg",
+      "source": "assets/images/gallery/shada/shada-044.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "هدوءٌ يفكر."
@@ -545,7 +545,7 @@
       "title": "من تفاصيل اليوم",
       "titleEn": "من تفاصيل اليوم",
       "category": "folklore",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0056.jpg",
+      "source": "assets/images/gallery/shada/shada-045.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "من تفاصيل اليوم."
@@ -555,7 +555,7 @@
       "title": "حجرٌ شاهد",
       "titleEn": "حجرٌ شاهد",
       "category": "history",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0057.jpg",
+      "source": "assets/images/gallery/shada/shada-046.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "حجرٌ شاهد."
@@ -565,7 +565,7 @@
       "title": "من معيشة الناس",
       "titleEn": "من معيشة الناس",
       "category": "folklore",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0058.jpg",
+      "source": "assets/images/gallery/shada/shada-047.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "من معيشة الناس."
@@ -575,7 +575,7 @@
       "title": "ظلٌّ ونور",
       "titleEn": "ظلٌّ ونور",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0059.jpg",
+      "source": "assets/images/gallery/shada/shada-048.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "ظلٌّ ونور."
@@ -585,7 +585,7 @@
       "title": "رقنٌ يدوي",
       "titleEn": "رقنٌ يدوي",
       "category": "language",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0060.jpg",
+      "source": "assets/images/gallery/shada/shada-049.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "رقنٌ يدوي."
@@ -595,7 +595,7 @@
       "title": "عنصرٌ بصري",
       "titleEn": "عنصرٌ بصري",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0061.jpg",
+      "source": "assets/images/gallery/shada/shada-050.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "عنصرٌ بصري."
@@ -605,7 +605,7 @@
       "title": "من صفحةٍ وورق",
       "titleEn": "من صفحةٍ وورق",
       "category": "literature",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0062.jpg",
+      "source": "assets/images/gallery/shada/shada-051.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "من صفحةٍ وورق."
@@ -615,7 +615,7 @@
       "title": "مقعدٌ وحكاية",
       "titleEn": "مقعدٌ وحكاية",
       "category": "literature",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0063.jpg",
+      "source": "assets/images/gallery/shada/shada-052.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "مقعدٌ وحكاية."
@@ -625,7 +625,7 @@
       "title": "نافذةٌ وفكر",
       "titleEn": "نافذةٌ وفكر",
       "category": "philosophy",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0064.jpg",
+      "source": "assets/images/gallery/shada/shada-053.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "نافذةٌ وفكر."
@@ -635,7 +635,7 @@
       "title": "ظلٌّ ونور",
       "titleEn": "ظلٌّ ونور",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0065.jpg",
+      "source": "assets/images/gallery/shada/shada-054.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "ظلٌّ ونور."
@@ -645,7 +645,7 @@
       "title": "ذاكرة المكان",
       "titleEn": "ذاكرة المكان",
       "category": "history",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0066.jpg",
+      "source": "assets/images/gallery/shada/shada-055.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "ذاكرة المكان."
@@ -655,7 +655,7 @@
       "title": "عنصرٌ بصري",
       "titleEn": "عنصرٌ بصري",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0067.jpg",
+      "source": "assets/images/gallery/shada/shada-056.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "عنصرٌ بصري."
@@ -665,7 +665,7 @@
       "title": "من صفحةٍ وورق",
       "titleEn": "من صفحةٍ وورق",
       "category": "literature",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0068.jpg",
+      "source": "assets/images/gallery/shada/shada-057.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "من صفحةٍ وورق."
@@ -675,7 +675,7 @@
       "title": "مقعدٌ وحكاية",
       "titleEn": "مقعدٌ وحكاية",
       "category": "literature",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0069.jpg",
+      "source": "assets/images/gallery/shada/shada-058.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "مقعدٌ وحكاية."
@@ -685,7 +685,7 @@
       "title": "تكوينٌ لوني",
       "titleEn": "تكوينٌ لوني",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0070.jpg",
+      "source": "assets/images/gallery/shada/shada-059.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "تكوينٌ لوني."
@@ -695,7 +695,7 @@
       "title": "بقايا زمان",
       "titleEn": "بقايا زمان",
       "category": "history",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0071.jpg",
+      "source": "assets/images/gallery/shada/shada-060.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "بقايا زمان."
@@ -705,7 +705,7 @@
       "title": "من زخرفة المكان",
       "titleEn": "من زخرفة المكان",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0072.jpg",
+      "source": "assets/images/gallery/shada/shada-061.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "من زخرفة المكان."
@@ -715,7 +715,7 @@
       "title": "لمحةٌ شعبية",
       "titleEn": "لمحةٌ شعبية",
       "category": "folklore",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0073.jpg",
+      "source": "assets/images/gallery/shada/shada-062.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "لمحةٌ شعبية."
@@ -725,7 +725,7 @@
       "title": "من صفحةٍ وورق",
       "titleEn": "من صفحةٍ وورق",
       "category": "literature",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0074.jpg",
+      "source": "assets/images/gallery/shada/shada-063.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "من صفحةٍ وورق."
@@ -735,7 +735,7 @@
       "title": "مقعدٌ وحكاية",
       "titleEn": "مقعدٌ وحكاية",
       "category": "literature",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0076.jpg",
+      "source": "assets/images/gallery/shada/shada-064.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "مقعدٌ وحكاية."
@@ -745,7 +745,7 @@
       "title": "تكوينٌ لوني",
       "titleEn": "تكوينٌ لوني",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0077.jpg",
+      "source": "assets/images/gallery/shada/shada-065.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "تكوينٌ لوني."
@@ -755,7 +755,7 @@
       "title": "أثر قلم",
       "titleEn": "أثر قلم",
       "category": "language",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0078.jpg",
+      "source": "assets/images/gallery/shada/shada-066.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "أثر قلم."
@@ -765,7 +765,7 @@
       "title": "عابرٌ في الدرب",
       "titleEn": "عابرٌ في الدرب",
       "category": "folklore",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0080.jpg",
+      "source": "assets/images/gallery/shada/shada-067.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "عابرٌ في الدرب."
@@ -775,7 +775,7 @@
       "title": "مخلفّ هذا المكان",
       "titleEn": "مخلفّ هذا المكان",
       "category": "history",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0081.jpg",
+      "source": "assets/images/gallery/shada/shada-068.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "مخلفّ هذا المكان."
@@ -785,7 +785,7 @@
       "title": "أثرٌ من الماضي",
       "titleEn": "أثرٌ من الماضي",
       "category": "history",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0082.jpg",
+      "source": "assets/images/gallery/shada/shada-069.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "أثرٌ من الماضي."
@@ -795,7 +795,7 @@
       "title": "خطٌّ على ورق",
       "titleEn": "خطٌّ على ورق",
       "category": "language",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0083.jpg",
+      "source": "assets/images/gallery/shada/shada-070.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "خطٌّ على ورق."
@@ -805,7 +805,7 @@
       "title": "من معيشة الناس",
       "titleEn": "من معيشة الناس",
       "category": "folklore",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0084.jpg",
+      "source": "assets/images/gallery/shada/shada-071.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "من معيشة الناس."
@@ -815,7 +815,7 @@
       "title": "كتابٌ ومنارة",
       "titleEn": "كتابٌ ومنارة",
       "category": "literature",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0085.jpg",
+      "source": "assets/images/gallery/shada/shada-072.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "كتابٌ ومنارة."
@@ -825,7 +825,7 @@
       "title": "تأملٌ في المكان",
       "titleEn": "تأملٌ في المكان",
       "category": "philosophy",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0086.jpg",
+      "source": "assets/images/gallery/shada/shada-073.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "تأملٌ في المكان."
@@ -835,7 +835,7 @@
       "title": "عنصرٌ بصري",
       "titleEn": "عنصرٌ بصري",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0087.jpg",
+      "source": "assets/images/gallery/shada/shada-074.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "عنصرٌ بصري."
@@ -845,7 +845,7 @@
       "title": "من حرفٍ وحبر",
       "titleEn": "من حرفٍ وحبر",
       "category": "language",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0088.jpg",
+      "source": "assets/images/gallery/shada/shada-075.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "من حرفٍ وحبر."
@@ -855,7 +855,7 @@
       "title": "خطٌّ على ورق",
       "titleEn": "خطٌّ على ورق",
       "category": "language",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0089.jpg",
+      "source": "assets/images/gallery/shada/shada-076.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "خطٌّ على ورق."
@@ -865,7 +865,7 @@
       "title": "تكوينٌ لوني",
       "titleEn": "تكوينٌ لوني",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0090.jpg",
+      "source": "assets/images/gallery/shada/shada-077.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "تكوينٌ لوني."
@@ -875,7 +875,7 @@
       "title": "كتابٌ ومنارة",
       "titleEn": "كتابٌ ومنارة",
       "category": "literature",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0091.jpg",
+      "source": "assets/images/gallery/shada/shada-078.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "كتابٌ ومنارة."
@@ -885,7 +885,7 @@
       "title": "عابرٌ في الدرب",
       "titleEn": "عابرٌ في الدرب",
       "category": "folklore",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0092.jpg",
+      "source": "assets/images/gallery/shada/shada-079.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "عابرٌ في الدرب."
@@ -895,7 +895,7 @@
       "title": "هدوءٌ يفكر",
       "titleEn": "هدوءٌ يفكر",
       "category": "philosophy",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0093.jpg",
+      "source": "assets/images/gallery/shada/shada-080.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "هدوءٌ يفكر."
@@ -905,27 +905,17 @@
       "title": "من حرفٍ وحبر",
       "titleEn": "من حرفٍ وحبر",
       "category": "language",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0094(1).jpg",
+      "source": "assets/images/gallery/shada/shada-081.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "من حرفٍ وحبر."
-    },
-    {
-      "id": "img092",
-      "title": "من تفاصيل اليد",
-      "titleEn": "من تفاصيل اليد",
-      "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0094.jpg",
-      "orientation": "portrait",
-      "folder": "shada",
-      "description": "من تفاصيل اليد."
     },
     {
       "id": "img093",
       "title": "من معيشة الناس",
       "titleEn": "من معيشة الناس",
       "category": "folklore",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0095.jpg",
+      "source": "assets/images/gallery/shada/shada-082.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "من معيشة الناس."
@@ -935,7 +925,7 @@
       "title": "ظلٌّ ونور",
       "titleEn": "ظلٌّ ونور",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0096.jpg",
+      "source": "assets/images/gallery/shada/shada-083.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "ظلٌّ ونور."
@@ -945,7 +935,7 @@
       "title": "عابرٌ في الدرب",
       "titleEn": "عابرٌ في الدرب",
       "category": "folklore",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0097.jpg",
+      "source": "assets/images/gallery/shada/shada-084.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "عابرٌ في الدرب."
@@ -955,7 +945,7 @@
       "title": "عنصرٌ بصري",
       "titleEn": "عنصرٌ بصري",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0098.jpg",
+      "source": "assets/images/gallery/shada/shada-085.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "عنصرٌ بصري."
@@ -965,7 +955,7 @@
       "title": "من تأمل الفضاء",
       "titleEn": "من تأمل الفضاء",
       "category": "philosophy",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0099.jpg",
+      "source": "assets/images/gallery/shada/shada-086.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "من تأمل الفضاء."
@@ -975,7 +965,7 @@
       "title": "خطٌّ على ورق",
       "titleEn": "خطٌّ على ورق",
       "category": "language",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0100.jpg",
+      "source": "assets/images/gallery/shada/shada-087.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "خطٌّ على ورق."
@@ -985,7 +975,7 @@
       "title": "تكوينٌ لوني",
       "titleEn": "تكوينٌ لوني",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0101.jpg",
+      "source": "assets/images/gallery/shada/shada-088.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "تكوينٌ لوني."
@@ -995,7 +985,7 @@
       "title": "بقايا زمان",
       "titleEn": "بقايا زمان",
       "category": "history",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0102.jpg",
+      "source": "assets/images/gallery/shada/shada-089.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "بقايا زمان."
@@ -1005,7 +995,7 @@
       "title": "من زخرفة المكان",
       "titleEn": "من زخرفة المكان",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0103.jpg",
+      "source": "assets/images/gallery/shada/shada-090.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "من زخرفة المكان."
@@ -1015,7 +1005,7 @@
       "title": "مخلفّ هذا المكان",
       "titleEn": "مخلفّ هذا المكان",
       "category": "history",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0104.jpg",
+      "source": "assets/images/gallery/shada/shada-091.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "مخلفّ هذا المكان."
@@ -1025,7 +1015,7 @@
       "title": "من صفحةٍ وورق",
       "titleEn": "من صفحةٍ وورق",
       "category": "literature",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0105.jpg",
+      "source": "assets/images/gallery/shada/shada-092.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "من صفحةٍ وورق."
@@ -1035,7 +1025,7 @@
       "title": "خطٌّ على ورق",
       "titleEn": "خطٌّ على ورق",
       "category": "language",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0106.jpg",
+      "source": "assets/images/gallery/shada/shada-093.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "خطٌّ على ورق."
@@ -1045,7 +1035,7 @@
       "title": "من معيشة الناس",
       "titleEn": "من معيشة الناس",
       "category": "folklore",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0107.jpg",
+      "source": "assets/images/gallery/shada/shada-094.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "من معيشة الناس."
@@ -1055,7 +1045,7 @@
       "title": "بقايا زمان",
       "titleEn": "بقايا زمان",
       "category": "history",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0108.jpg",
+      "source": "assets/images/gallery/shada/shada-095.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "بقايا زمان."
@@ -1065,7 +1055,7 @@
       "title": "صمتٌ وحرف",
       "titleEn": "صمتٌ وحرف",
       "category": "literature",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0109.jpg",
+      "source": "assets/images/gallery/shada/shada-096.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "صمتٌ وحرف."
@@ -1075,7 +1065,7 @@
       "title": "رقّ ICT",
       "titleEn": "رقّ ICT",
       "category": "literature",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0110.jpg",
+      "source": "assets/images/gallery/shada/shada-097.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "رقّ ICT."
@@ -1085,7 +1075,7 @@
       "title": "من صفحةٍ وورق",
       "titleEn": "من صفحةٍ وورق",
       "category": "literature",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0111.jpg",
+      "source": "assets/images/gallery/shada/shada-098.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "من صفحةٍ وورق."
@@ -1095,7 +1085,7 @@
       "title": "حجرٌ شاهد",
       "titleEn": "حجرٌ شاهد",
       "category": "history",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0112.jpg",
+      "source": "assets/images/gallery/shada/shada-099.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "حجرٌ شاهد."
@@ -1105,7 +1095,7 @@
       "title": "من معيشة الناس",
       "titleEn": "من معيشة الناس",
       "category": "folklore",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0113.jpg",
+      "source": "assets/images/gallery/shada/shada-100.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "من معيشة الناس."
@@ -1115,7 +1105,7 @@
       "title": "من زوايا النظر",
       "titleEn": "من زوايا النظر",
       "category": "philosophy",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0114.jpg",
+      "source": "assets/images/gallery/shada/shada-101.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "من زوايا النظر."
@@ -1125,7 +1115,7 @@
       "title": "من زخرفة المكان",
       "titleEn": "من زخرفة المكان",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0115.jpg",
+      "source": "assets/images/gallery/shada/shada-102.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "من زخرفة المكان."
@@ -1135,7 +1125,7 @@
       "title": "عنصرٌ بصري",
       "titleEn": "عنصرٌ بصري",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0116.jpg",
+      "source": "assets/images/gallery/shada/shada-103.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "عنصرٌ بصري."
@@ -1145,7 +1135,7 @@
       "title": "من تأمل الفضاء",
       "titleEn": "من تأمل الفضاء",
       "category": "philosophy",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0118.jpg",
+      "source": "assets/images/gallery/shada/shada-104.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "من تأمل الفضاء."
@@ -1155,7 +1145,7 @@
       "title": "مقعدٌ وحكاية",
       "titleEn": "مقعدٌ وحكاية",
       "category": "literature",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0119.jpg",
+      "source": "assets/images/gallery/shada/shada-105.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "مقعدٌ وحكاية."
@@ -1165,7 +1155,7 @@
       "title": "نافذةٌ وفكر",
       "titleEn": "نافذةٌ وفكر",
       "category": "philosophy",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0120.jpg",
+      "source": "assets/images/gallery/shada/shada-106.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "نافذةٌ وفكر."
@@ -1175,7 +1165,7 @@
       "title": "ظلٌّ ونور",
       "titleEn": "ظلٌّ ونور",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0121.jpg",
+      "source": "assets/images/gallery/shada/shada-107.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "ظلٌّ ونور."
@@ -1185,7 +1175,7 @@
       "title": "عابرٌ في الدرب",
       "titleEn": "عابرٌ في الدرب",
       "category": "folklore",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0122.jpg",
+      "source": "assets/images/gallery/shada/shada-108.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "عابرٌ في الدرب."
@@ -1195,7 +1185,7 @@
       "title": "مخلفّ هذا المكان",
       "titleEn": "مخلفّ هذا المكان",
       "category": "history",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0123.jpg",
+      "source": "assets/images/gallery/shada/shada-109.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "مخلفّ هذا المكان."
@@ -1205,7 +1195,7 @@
       "title": "من صفحةٍ وورق",
       "titleEn": "من صفحةٍ وورق",
       "category": "literature",
-      "source": "assets/images/gallery/shada/IMG-20260625-WA0124.jpg",
+      "source": "assets/images/gallery/shada/shada-110.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "من صفحةٍ وورق."
@@ -1215,7 +1205,7 @@
       "title": "صمتٌ ومعنى",
       "titleEn": "صمتٌ ومعنى",
       "category": "philosophy",
-      "source": "assets/images/gallery/shada/IMG-20260629-WA0032(1).jpg",
+      "source": "assets/images/gallery/shada/shada-111.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "صمتٌ ومعنى."
@@ -1225,7 +1215,7 @@
       "title": "تكوينٌ لوني",
       "titleEn": "تكوينٌ لوني",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260630-WA0002.jpg",
+      "source": "assets/images/gallery/shada/shada-112.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "تكوينٌ لوني."
@@ -1235,7 +1225,7 @@
       "title": "ظلٌّ ونور",
       "titleEn": "ظلٌّ ونور",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260630-WA0003.jpg",
+      "source": "assets/images/gallery/shada/shada-113.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "ظلٌّ ونور."
@@ -1245,7 +1235,7 @@
       "title": "صمتٌ وحرف",
       "titleEn": "صمتٌ وحرف",
       "category": "literature",
-      "source": "assets/images/gallery/shada/IMG-20260704-WA0002.jpg",
+      "source": "assets/images/gallery/shada/shada-114.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "صمتٌ وحرف."
@@ -1255,7 +1245,7 @@
       "title": "مخلفّ هذا المكان",
       "titleEn": "مخلفّ هذا المكان",
       "category": "history",
-      "source": "assets/images/gallery/shada/IMG-20260704-WA0003.jpg",
+      "source": "assets/images/gallery/shada/shada-115.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "مخلفّ هذا المكان."
@@ -1265,7 +1255,7 @@
       "title": "من صفحةٍ وورق",
       "titleEn": "من صفحةٍ وورق",
       "category": "literature",
-      "source": "assets/images/gallery/shada/IMG-20260704-WA0004.jpg",
+      "source": "assets/images/gallery/shada/shada-116.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "من صفحةٍ وورق."
@@ -1275,7 +1265,7 @@
       "title": "من تفاصيل اليد",
       "titleEn": "من تفاصيل اليد",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260704-WA0005.jpg",
+      "source": "assets/images/gallery/shada/shada-117.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "من تفاصيل اليد."
@@ -1285,7 +1275,7 @@
       "title": "نافذةٌ وفكر",
       "titleEn": "نافذةٌ وفكر",
       "category": "philosophy",
-      "source": "assets/images/gallery/shada/IMG-20260704-WA0006.jpg",
+      "source": "assets/images/gallery/shada/shada-118.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "نافذةٌ وفكر."
@@ -1295,7 +1285,7 @@
       "title": "أثر قلم",
       "titleEn": "أثر قلم",
       "category": "language",
-      "source": "assets/images/gallery/shada/IMG-20260704-WA0007.jpg",
+      "source": "assets/images/gallery/shada/shada-119.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "أثر قلم."
@@ -1305,7 +1295,7 @@
       "title": "من زخرفة المكان",
       "titleEn": "من زخرفة المكان",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260704-WA0008.jpg",
+      "source": "assets/images/gallery/shada/shada-120.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "من زخرفة المكان."
@@ -1315,7 +1305,7 @@
       "title": "هدوءٌ يفكر",
       "titleEn": "هدوءٌ يفكر",
       "category": "philosophy",
-      "source": "assets/images/gallery/shada/IMG-20260704-WA0009.jpg",
+      "source": "assets/images/gallery/shada/shada-121.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "هدوءٌ يفكر."
@@ -1325,7 +1315,7 @@
       "title": "من صفحةٍ وورق",
       "titleEn": "من صفحةٍ وورق",
       "category": "literature",
-      "source": "assets/images/gallery/shada/IMG-20260704-WA0010.jpg",
+      "source": "assets/images/gallery/shada/shada-122.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "من صفحةٍ وورق."
@@ -1335,7 +1325,7 @@
       "title": "مقعدٌ وحكاية",
       "titleEn": "مقعدٌ وحكاية",
       "category": "literature",
-      "source": "assets/images/gallery/shada/IMG-20260704-WA0011.jpg",
+      "source": "assets/images/gallery/shada/shada-123.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "مقعدٌ وحكاية."
@@ -1345,7 +1335,7 @@
       "title": "من سواد الحرف",
       "titleEn": "من سواد الحرف",
       "category": "language",
-      "source": "assets/images/gallery/shada/IMG-20260704-WA0012.jpg",
+      "source": "assets/images/gallery/shada/shada-124.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "من سواد الحرف."
@@ -1355,7 +1345,7 @@
       "title": "ظلٌّ ونور",
       "titleEn": "ظلٌّ ونور",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260704-WA0013.jpg",
+      "source": "assets/images/gallery/shada/shada-125.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "ظلٌّ ونور."
@@ -1365,7 +1355,7 @@
       "title": "ذاكرة المكان",
       "titleEn": "ذاكرة المكان",
       "category": "history",
-      "source": "assets/images/gallery/shada/IMG-20260704-WA0014.jpg",
+      "source": "assets/images/gallery/shada/shada-126.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "ذاكرة المكان."
@@ -1375,7 +1365,7 @@
       "title": "رقّ ICT",
       "titleEn": "رقّ ICT",
       "category": "literature",
-      "source": "assets/images/gallery/shada/IMG-20260704-WA0017.jpg",
+      "source": "assets/images/gallery/shada/shada-127.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "رقّ ICT."
@@ -1385,7 +1375,7 @@
       "title": "على الجدار",
       "titleEn": "على الجدار",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260704-WA0018.jpg",
+      "source": "assets/images/gallery/shada/shada-128.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "على الجدار."
@@ -1395,7 +1385,7 @@
       "title": "خطٌّ على ورق",
       "titleEn": "خطٌّ على ورق",
       "category": "language",
-      "source": "assets/images/gallery/shada/IMG-20260704-WA0019.jpg",
+      "source": "assets/images/gallery/shada/shada-129.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "خطٌّ على ورق."
@@ -1405,7 +1395,7 @@
       "title": "تكوينٌ لوني",
       "titleEn": "تكوينٌ لوني",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260704-WA0020.jpg",
+      "source": "assets/images/gallery/shada/shada-130.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "تكوينٌ لوني."
@@ -1415,7 +1405,7 @@
       "title": "كتابٌ ومنارة",
       "titleEn": "كتابٌ ومنارة",
       "category": "literature",
-      "source": "assets/images/gallery/shada/IMG-20260704-WA0021.jpg",
+      "source": "assets/images/gallery/shada/shada-131.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "كتابٌ ومنارة."
@@ -1425,7 +1415,7 @@
       "title": "رقنٌ يدوي",
       "titleEn": "رقنٌ يدوي",
       "category": "language",
-      "source": "assets/images/gallery/shada/IMG-20260704-WA0022.jpg",
+      "source": "assets/images/gallery/shada/shada-132.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "رقنٌ يدوي."
@@ -1435,7 +1425,7 @@
       "title": "عنصرٌ بصري",
       "titleEn": "عنصرٌ بصري",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260704-WA0023.jpg",
+      "source": "assets/images/gallery/shada/shada-133.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "عنصرٌ بصري."
@@ -1445,7 +1435,7 @@
       "title": "أثرٌ من الماضي",
       "titleEn": "أثرٌ من الماضي",
       "category": "history",
-      "source": "assets/images/gallery/shada/IMG-20260704-WA0025.jpg",
+      "source": "assets/images/gallery/shada/shada-134.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "أثرٌ من الماضي."
@@ -1455,7 +1445,7 @@
       "title": "مشهدٌ محلي",
       "titleEn": "مشهدٌ محلي",
       "category": "folklore",
-      "source": "assets/images/gallery/shada/IMG-20260715-WA0005.jpg",
+      "source": "assets/images/gallery/shada/shada-135.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "مشهدٌ محلي."
@@ -1465,7 +1455,7 @@
       "title": "تكوينٌ لوني",
       "titleEn": "تكوينٌ لوني",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260715-WA0006.jpg",
+      "source": "assets/images/gallery/shada/shada-136.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "تكوينٌ لوني."
@@ -1475,7 +1465,7 @@
       "title": "ظلٌّ ونور",
       "titleEn": "ظلٌّ ونور",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260715-WA0007.jpg",
+      "source": "assets/images/gallery/shada/shada-137.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "ظلٌّ ونور."
@@ -1485,7 +1475,7 @@
       "title": "رقنٌ يدوي",
       "titleEn": "رقنٌ يدوي",
       "category": "language",
-      "source": "assets/images/gallery/shada/IMG-20260715-WA0008.jpg",
+      "source": "assets/images/gallery/shada/shada-138.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "رقنٌ يدوي."
@@ -1495,7 +1485,7 @@
       "title": "مخلفّ هذا المكان",
       "titleEn": "مخلفّ هذا المكان",
       "category": "history",
-      "source": "assets/images/gallery/shada/IMG-20260715-WA0009(1).jpg",
+      "source": "assets/images/gallery/shada/shada-139.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "مخلفّ هذا المكان."
@@ -1505,7 +1495,7 @@
       "title": "على الجدار",
       "titleEn": "على الجدار",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260715-WA0010.jpg",
+      "source": "assets/images/gallery/shada/shada-140.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "على الجدار."
@@ -1515,7 +1505,7 @@
       "title": "مشهدٌ محلي",
       "titleEn": "مشهدٌ محلي",
       "category": "folklore",
-      "source": "assets/images/gallery/shada/IMG-20260715-WA0011.jpg",
+      "source": "assets/images/gallery/shada/shada-141.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "مشهدٌ محلي."
@@ -1525,7 +1515,7 @@
       "title": "نافذةٌ وفكر",
       "titleEn": "نافذةٌ وفكر",
       "category": "philosophy",
-      "source": "assets/images/gallery/shada/IMG-20260715-WA0012.jpg",
+      "source": "assets/images/gallery/shada/shada-142.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "نافذةٌ وفكر."
@@ -1535,7 +1525,7 @@
       "title": "ريحة المكان",
       "titleEn": "ريحة المكان",
       "category": "folklore",
-      "source": "assets/images/gallery/shada/IMG-20260715-WA0013.jpg",
+      "source": "assets/images/gallery/shada/shada-143.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "ريحة المكان."
@@ -1545,7 +1535,7 @@
       "title": "من زخرفة المكان",
       "titleEn": "من زخرفة المكان",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260715-WA0014.jpg",
+      "source": "assets/images/gallery/shada/shada-144.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "من زخرفة المكان."
@@ -1555,7 +1545,7 @@
       "title": "عنصرٌ بصري",
       "titleEn": "عنصرٌ بصري",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260715-WA0015.jpg",
+      "source": "assets/images/gallery/shada/shada-145.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "عنصرٌ بصري."
@@ -1565,7 +1555,7 @@
       "title": "من حرفٍ وحبر",
       "titleEn": "من حرفٍ وحبر",
       "category": "language",
-      "source": "assets/images/gallery/shada/IMG-20260715-WA0016.jpg",
+      "source": "assets/images/gallery/shada/shada-146.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "من حرفٍ وحبر."
@@ -1575,7 +1565,7 @@
       "title": "مقعدٌ وحكاية",
       "titleEn": "مقعدٌ وحكاية",
       "category": "literature",
-      "source": "assets/images/gallery/shada/IMG-20260715-WA0017.jpg",
+      "source": "assets/images/gallery/shada/shada-147.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "مقعدٌ وحكاية."
@@ -1585,7 +1575,7 @@
       "title": "نافذةٌ وفكر",
       "titleEn": "نافذةٌ وفكر",
       "category": "philosophy",
-      "source": "assets/images/gallery/shada/IMG-20260715-WA0018.jpg",
+      "source": "assets/images/gallery/shada/shada-148.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "نافذةٌ وفكر."
@@ -1595,7 +1585,7 @@
       "title": "بقايا زمان",
       "titleEn": "بقايا زمان",
       "category": "history",
-      "source": "assets/images/gallery/shada/IMG-20260715-WA0019.jpg",
+      "source": "assets/images/gallery/shada/shada-149.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "بقايا زمان."
@@ -1605,7 +1595,7 @@
       "title": "رقنٌ يدوي",
       "titleEn": "رقنٌ يدوي",
       "category": "language",
-      "source": "assets/images/gallery/shada/IMG-20260715-WA0020.jpg",
+      "source": "assets/images/gallery/shada/shada-150.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "رقنٌ يدوي."
@@ -1615,7 +1605,7 @@
       "title": "لمحةٌ شعبية",
       "titleEn": "لمحةٌ شعبية",
       "category": "folklore",
-      "source": "assets/images/gallery/shada/IMG-20260715-WA0021.jpg",
+      "source": "assets/images/gallery/shada/shada-151.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "لمحةٌ شعبية."
@@ -1625,7 +1615,7 @@
       "title": "من تفاصيل اليوم",
       "titleEn": "من تفاصيل اليوم",
       "category": "folklore",
-      "source": "assets/images/gallery/shada/IMG-20260715-WA0022.jpg",
+      "source": "assets/images/gallery/shada/shada-152.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "من تفاصيل اليوم."
@@ -1635,7 +1625,7 @@
       "title": "مقعدٌ وحكاية",
       "titleEn": "مقعدٌ وحكاية",
       "category": "literature",
-      "source": "assets/images/gallery/shada/IMG-20260715-WA0023.jpg",
+      "source": "assets/images/gallery/shada/shada-153.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "مقعدٌ وحكاية."
@@ -1645,7 +1635,7 @@
       "title": "من بناءٍ قديم",
       "titleEn": "من بناءٍ قديم",
       "category": "history",
-      "source": "assets/images/gallery/shada/IMG-20260715-WA0024.jpg",
+      "source": "assets/images/gallery/shada/shada-154.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "من بناءٍ قديم."
@@ -1655,7 +1645,7 @@
       "title": "بقايا زمان",
       "titleEn": "بقايا زمان",
       "category": "history",
-      "source": "assets/images/gallery/shada/IMG-20260715-WA0025.jpg",
+      "source": "assets/images/gallery/shada/shada-155.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "بقايا زمان."
@@ -1665,7 +1655,7 @@
       "title": "من زخرفة المكان",
       "titleEn": "من زخرفة المكان",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260715-WA0026.jpg",
+      "source": "assets/images/gallery/shada/shada-156.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "من زخرفة المكان."
@@ -1675,7 +1665,7 @@
       "title": "رقّ ICT",
       "titleEn": "رقّ ICT",
       "category": "literature",
-      "source": "assets/images/gallery/shada/IMG-20260715-WA0027.jpg",
+      "source": "assets/images/gallery/shada/shada-157.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "رقّ ICT."
@@ -1685,7 +1675,7 @@
       "title": "على الجدار",
       "titleEn": "على الجدار",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260715-WA0028.jpg",
+      "source": "assets/images/gallery/shada/shada-158.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "على الجدار."
@@ -1695,7 +1685,7 @@
       "title": "من تفاصيل اليد",
       "titleEn": "من تفاصيل اليد",
       "category": "arts",
-      "source": "assets/images/gallery/shada/IMG-20260715-WA0029.jpg",
+      "source": "assets/images/gallery/shada/shada-159.jpg",
       "orientation": "portrait",
       "folder": "shada",
       "description": "من تفاصيل اليد."
@@ -1705,7 +1695,7 @@
       "title": "من معيشة الناس",
       "titleEn": "من معيشة الناس",
       "category": "folklore",
-      "source": "assets/images/gallery/shada/IMG-20260715-WA0030.jpg",
+      "source": "assets/images/gallery/shada/shada-160.jpg",
       "orientation": "landscape",
       "folder": "shada",
       "description": "من معيشة الناس."
@@ -1715,7 +1705,7 @@
       "title": "من زوايا النظر",
       "titleEn": "من زوايا النظر",
       "category": "philosophy",
-      "source": "assets/images/gallery/shada/IMG-20260715-WA0031.jpg",
+      "source": "assets/images/gallery/shada/shada-161.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "من زوايا النظر."
@@ -1725,7 +1715,7 @@
       "title": "تأملٌ في المكان",
       "titleEn": "تأملٌ في المكان",
       "category": "philosophy",
-      "source": "assets/images/gallery/shada/IMG-20260715-WA0032.jpg",
+      "source": "assets/images/gallery/shada/shada-162.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "تأملٌ في المكان."
@@ -1735,7 +1725,7 @@
       "title": "مخلفّ هذا المكان",
       "titleEn": "مخلفّ هذا المكان",
       "category": "history",
-      "source": "assets/images/gallery/shada/IMG-20260715-WA0033.jpg",
+      "source": "assets/images/gallery/shada/shada-163.jpg",
       "orientation": "square",
       "folder": "shada",
       "description": "مخلفّ هذا المكان."

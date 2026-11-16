@@ -22,6 +22,7 @@ lodran/
 ├── timeline.html       # Cultural timeline by year
 ├── shelf.html          # Visual bookshelf map + bookmarks + reading-stats dashboard
 ├── reader.html         # In-site book reader with font/line-height controls + theme + notes
+├── article.html        # Single-article view
 ├── about.html          # About Lodran
 ├── 404.html            # Custom not-found page
 ├── css/style.css       # Single stylesheet (responsive, calm palette, light/sepia/night themes)
@@ -35,7 +36,9 @@ lodran/
 │   ├── search.js       # Full-text search page
 │   ├── timeline.js     # Year timeline view
 │   ├── shelf.js        # Shelf map + saved items + stats dashboard
-│   └── reader.js       # In-site reader (prefs, sessions, notes)
+│   ├── reader.js       # In-site reader (prefs, sessions, notes)
+│   ├── article.js      # Single-article view
+│   └── pdf.min.js / pdf.worker.min.js  # Bundled PDF.js for books that ship as a PDF
 ├── data/               # All content, manually curated
 │   ├── categories.json
 │   ├── books.json
@@ -47,6 +50,8 @@ lodran/
 ├── sw.js                # Service worker (offline / PWA shell)
 ├── manifest.webmanifest # PWA install manifest
 ├── nginx/nginx.conf     # Nginx site config
+├── tools/import_text.py # Import a plain-text book into data/book-text.json
+├── .github/workflows/pages.yml  # Auto-deploy to GitHub Pages on push to main
 ├── Dockerfile          # Static site via nginx:alpine
 ├── docker-compose.yml  # Builds + serves on http://localhost:8080
 └── .dockerignore
@@ -122,6 +127,15 @@ directly via `file://` will fail CORS in most browsers — use a local server.
 
 ---
 
+## Deploy to GitHub Pages
+
+The workflow in `.github/workflows/pages.yml` publishes the site on every push
+to `main`. One-time setup: in the repository **Settings → Pages**, set
+**Source** to **GitHub Actions**. The site then lives at
+`https://<user>.github.io/lodran/`.
+
+---
+
 ## Adding content
 
 Edit the JSON files in `data/`:
@@ -136,6 +150,15 @@ Edit the JSON files in `data/`:
   `id`, `title`, `titleAr`, `category`, `source` (an image path), `description`.
 - **`categories.json`** — define categories (id, name, nameAr, description, icon).
   Icons available: `book`, `scroll`, `compass`, `palette`, `feather`, `abc`.
+
+To add a book's full text for the reader, write it as plain text (a line
+starting with `## ` begins a chapter, blank lines separate paragraphs) and run:
+
+```bash
+python3 tools/import_text.py b030 path/to/book.txt --source "where the text came from"
+```
+
+Only add texts you have the right to publish (public-domain or openly licensed).
 
 Drop cover/gallery images under `assets/images/` (the defaults are SVG
 placeholders). Rebuild the container to serve new assets.
